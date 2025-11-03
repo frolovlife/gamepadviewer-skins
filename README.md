@@ -1,15 +1,16 @@
-# :information_source: General info
+# Retro Gamepad Skins for GamepadViewer
 
-These are custom skins of various controllers for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
+These are custom skins of various controllers (retro and some new) for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
->
-> Unfortunately, GamepadViewer doesn't support LP, RP, L4, and R4. Therefore, it's impossible to create a skin that supports these buttons.
+
+> [!IMPORTANT]
+> Unfortunately, GamepadViewer doesn't support `LP`, `RP`, `L4`, and `R4`. Therefore, it's impossible to create a skin that supports these buttons.
 
 From time to time, I'll be tweaking existing skins and adding new ones. You can star the repository so you don't lose this skins.
 
-## :tv: How to use with OBS Studio, StreamLabs etc.
+## 📺 How to use with OBS Studio, StreamLabs etc.
 
 1. Choose the controller skin you want to display on your stream below.
 2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapped L-stick to D-pad.*
@@ -21,7 +22,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 > [!TIP]
 > All links for OBS Studio are generated for the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
 
-## :wrench: How to use with GamepadViewer's URL generator
+## 🔧 How to use with GamepadViewer's URL generator
 
 1. Choose the controller skin you want to display on your stream below.
 2. Copy the raw CSS link of these skin.
@@ -30,7 +31,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 5. Configure the remaining parameters as desired and copy the generated link.
 6. Paste the generated link into the Browser source address bar in OBS Studio and click `OK`.
 
-# :video_game: Controller skins
+# 🎮 Controller skins
 
 - [**8BitDo**](#8bitdo)
   - 8BitDo Pro 2: [gray](#8bitdo-pro-2-gray), [classic](#8bitdo-pro-2-classic), [black](#8bitdo-pro-2-black)
