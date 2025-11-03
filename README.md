@@ -19,7 +19,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
     - Paste the previously copied link into the URL field and click `OK`.
 4. Adjust size and position of the Browser source as you wish.
 > [!TIP]
-> All links for OBS Studio are generated for the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
+> All links for OBS Studio assume the use of the first player's controller. To display the second, third, or fourth player's controller, replace `p=1` in the link with `p=2`, `p=3`, or `p=4` respectively.
 
 ## 🔧 How to use with GamepadViewer's URL generator
 
