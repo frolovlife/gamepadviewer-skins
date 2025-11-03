@@ -4,8 +4,7 @@ These are custom skins of various controllers (retro and some new) for [GamepadV
 
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
-
-> [!IMPORTANT]
+>
 > Unfortunately, GamepadViewer doesn't support `LP`, `RP`, `L4`, and `R4`. Therefore, it's impossible to create a skin that supports these buttons.
 
 From time to time, I'll be tweaking existing skins and adding new ones. You can star the repository so you don't lose this skins.
@@ -15,7 +14,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 1. Choose the controller skin you want to display on your stream below.
 2. Copy the link for OBS Studio with or without mapping, as needed.<br>*Some controllers, such as the 8BitDo M30, don't have analog sticks, but their D-pad functions as the left stick. To ensure proper operation with these controllers, use the link with mapped L-stick to D-pad.*
 3. Add a Browser source on the scene in OBS Studio:
-    - Right click in `Sources` --> `Add` --> `Browser`.
+    - Right click in `Sources` → `Add` → `Browser`.
     - Name it as you want (i.e.: «Gamepad»).
     - Paste the previously copied link into the URL field and click `OK`.
 4. Adjust size and position of the Browser source as you wish.
