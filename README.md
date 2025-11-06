@@ -505,3 +505,7 @@ With buttons X and Y
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css)
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/snk/neogeo-cd-v1.css)
+
+---
+
+*This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with 8BitDo, Nintendo, Sega, SNK, NEC, Panasonic, Sanyo etc. All product, company names and logos are trademarks™ or registered® trademarks of their respective owners.*
