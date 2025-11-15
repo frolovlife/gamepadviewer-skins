@@ -1,6 +1,6 @@
 # Retro Gamepad Skins for GamepadViewer
 
-<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/gamepadviewer-skins/repository-open-graph-gamepadviewer-skins.png">
+<img width="100%" src="https://raw.githubusercontent.com/frolovlife/frolovlife/refs/heads/main/assets/gamepadviewer-skins/social-preview_gamepadviewer-skins.png">
 
 These are custom skins of various controllers (retro and some new) for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
