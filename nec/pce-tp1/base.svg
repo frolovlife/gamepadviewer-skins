@@ -20,7 +20,7 @@
     .fil13 {fill:url(#id12);fill-opacity:0.7}
     .fil11 {fill:url(#id13);fill-opacity:0.7}
     .fil17 {fill:url(#id1)}
-    .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.15)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.15))}
+    .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.2)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.2))}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="616" y1="541.622" x2="616" y2="2.377">
    <stop offset="0" style="stop-opacity:1; stop-color:#DEDEE0"/>
