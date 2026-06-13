@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 1000 532" width="1000px" height="532px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil3 {fill:black;fill-opacity:0.1}
+    .fil4 {fill:black;fill-opacity:0.5}
+    .fil2 {fill:url(#id0)}
+    .fil1 {fill:url(#id1)}
+    .fil0 {fill:url(#id2);fill-opacity:0.6}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="681.49" y1="331.367" x2="681.49" y2="410.185">
+   <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#303030"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="681.49" y1="370.776" x2="681.49" y2="327.649">
+   <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#484848"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="681.491" y1="370.777" x2="681.491" y2="323.932">
+  </linearGradient>
+ </defs>
+ <g>
+  <path class="fil0" d="M681.491 323.932c25.871,0 46.844,20.974 46.844,46.845 0,25.871 -20.973,46.845 -46.844,46.845 -25.872,0 -46.845,-20.974 -46.845,-46.845 0,-25.871 20.973,-46.845 46.845,-46.845z"/>
+  <circle class="fil1" cx="681.49" cy="370.776" r="43.127"/>
+  <circle class="fil2" cx="681.49" cy="370.776" r="39.409"/>
+  <path class="fil3" d="M681.49 331.367c21.765,0 39.41,17.645 39.41,39.409l0 0.002c-9.686,-10.813 -23.753,-17.618 -39.41,-17.618 -15.657,0 -29.725,6.807 -39.409,17.62l0 -0.004c0,-21.764 17.645,-39.409 39.409,-39.409z"/>
+  <path class="fil4" d="M686.631 368.424l-8.589 -3.831c-0.256,-0.114 -0.527,-0.095 -0.766,0.052 -0.238,0.148 -0.376,0.383 -0.388,0.662l-0.404 9.411c-0.013,0.311 0.136,0.586 0.406,0.743 0.269,0.158 0.581,0.154 0.847,-0.011l8.993 -5.579c0.264,-0.164 0.407,-0.442 0.385,-0.753 -0.021,-0.311 -0.199,-0.566 -0.484,-0.694zm14.808 1.637c0.134,0.141 0.258,0.303 0.366,0.477 0.353,0.569 0.45,1.15 0.289,1.737 -0.161,0.587 -0.529,1.055 -1.104,1.412 -0.597,0.37 -1.354,0.346 -2.281,-0.077l-5.733 -2.502c-0.46,-0.201 -0.945,-0.166 -1.371,0.098l-14.811 9.189c-0.427,0.264 -0.674,0.686 -0.697,1.187l-0.288 6.266c0.022,0.272 0.009,0.488 -0.034,0.631 -0.098,0.378 -0.316,0.675 -0.656,0.886 -0.732,0.454 -1.43,0.524 -2.107,0.218 -0.292,-0.136 -0.506,-0.305 -0.634,-0.512 -0.086,-0.139 -0.137,-0.27 -0.148,-0.388l0.616 -25.984c0.033,-1.119 0.574,-1.979 1.639,-2.579 1.256,-0.717 2.225,-0.8 2.905,-0.24l24.049 10.181z"/>
+ </g>
+</svg>
