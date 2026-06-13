@@ -4,7 +4,7 @@
  <defs>
   <style type="text/css">
     .fil1 {fill:#3D3D3D}
-    .fil3 {fill:black;fill-opacity:0.5}
+    .fil3 {fill:black;fill-opacity:0.4}
     .fil0 {fill:#3D3D3D;fill-opacity:0.7}
     .fil2 {fill:url(#id0)}
   </style>
