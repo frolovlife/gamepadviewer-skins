@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 472 234" width="472px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:#CA0C14}
+    .fil1 {fill:black;fill-opacity:0.1}
+  </style>
+ </defs>
+ <g>
+  <g id="button-turbo-a">
+   <circle class="fil0" cx="392.473" cy="96.968" r="19.465"/>
+   <path class="fil1" d="M392.473 79.961c9.393,0 17.008,7.614 17.008,17.007l0 0.003c-4.658,-3.426 -10.572,-5.478 -17.008,-5.478 -6.437,0 -12.35,2.051 -17.008,5.477l0 -0.002c0,-9.393 7.615,-17.007 17.008,-17.007z"/>
+  </g>
+ </g>
+</svg>

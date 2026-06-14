@@ -1,0 +1,144 @@
+/*BEGIN Dendy Junior var.3 Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(dendy-junior-v3/base-v3.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(dendy-junior-v3/base-v3.svg);
+}
+
+.custom.disconnected {
+  background-image: url(dendy-junior-v3/disconnected-v3.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(dendy-junior-v3/start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(dendy-junior-v3/pressed-start.svg);
+}
+
+.custom .back {
+  background-image: url(dendy-junior-v3/select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(dendy-junior-v3/pressed-select.svg);
+}
+
+/* A, B, X and Y */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(dendy-junior-v3/button-b.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(dendy-junior-v3/pressed-button-b.svg);
+}
+
+.custom .b {
+  background-image: url(dendy-junior-v3/button-a.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(dendy-junior-v3/pressed-button-a.svg);
+}
+
+.custom .x {
+  background-image: url(dendy-junior-v3/button-y.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(dendy-junior-v3/pressed-button-y.svg);
+}
+
+.custom .y {
+  background-image: url(dendy-junior-v3/button-x.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(dendy-junior-v3/pressed-button-x.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  /* background-image: url(dendy-junior-v3/dpad-circle.svg); */
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(dendy-junior-v3/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(dendy-junior-v3/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(dendy-junior-v3/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(dendy-junior-v3/pressed-dpad-right.svg);
+}
