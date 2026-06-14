@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 472 234" width="472px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 470 234" width="470px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
     .fil0 {fill:red}
@@ -9,8 +9,8 @@
  </defs>
  <g>
   <g id="pressed-dpad-up">
-   <path class="fil0" d="M62.988 120.375c0.411,-0.411 0.665,-0.978 0.665,-1.602l0 -1.512c0,-10.394 8.505,-18.898 18.898,-18.898 10.394,0 18.898,8.505 18.898,18.898l0 1.512c0,0.624 0.254,1.191 0.665,1.602l-19.563 19.563 -19.563 -19.563z"/>
-   <path class="fil1" d="M82.551 130.489c2.609,0 4.971,1.058 6.681,2.768l-6.681 6.681 -6.681 -6.681c1.71,-1.71 4.072,-2.768 6.681,-2.768zm-9.448 -7.559l18.897 0 -9.449 -22.676 -9.448 22.676z"/>
+   <path class="fil0" d="M61.988 120.753c0.411,-0.411 0.665,-0.978 0.665,-1.602l0 -1.512c0,-10.394 8.505,-18.898 18.898,-18.898 10.394,0 18.898,8.505 18.898,18.898l0 1.512c0,0.624 0.254,1.191 0.665,1.602l-19.563 19.563 -19.563 -19.563z"/>
+   <path class="fil1" d="M81.551 130.867c2.609,0 4.971,1.058 6.681,2.768l-6.681 6.681 -6.681 -6.681c1.71,-1.71 4.072,-2.768 6.681,-2.768zm-9.448 -7.559l18.897 0 -9.449 -22.676 -9.448 22.676z"/>
   </g>
  </g>
 </svg>

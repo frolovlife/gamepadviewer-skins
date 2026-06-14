@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 472 234" width="472px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 470 234" width="470px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
-    .fil1 {fill:#262626}
     .fil0 {fill:url(#id0)}
+    .fil1 {fill:#262626}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="185.165" y1="171.047" x2="185.165" y2="158.952">
    <stop offset="0" style="stop-opacity:1; stop-color:#1A1A1A"/>
@@ -14,8 +14,8 @@
  </defs>
  <g>
   <g id="button-select">
-   <path class="fil0" d="M202.173 165c0,3.326 -2.721,6.047 -6.047,6.047l-21.922 0c-3.325,0 -6.047,-2.721 -6.047,-6.047 0,-3.326 2.721,-6.048 6.047,-6.048l21.922 0c3.327,0 6.047,2.722 6.047,6.048z"/>
-   <path class="fil1" d="M196.126 159.897l-21.922 0c-1.404,0 -2.679,0.573 -3.602,1.496 -0.925,0.929 -1.5,2.205 -1.5,3.606 0,1.402 0.575,2.678 1.5,3.603 0.923,0.927 2.198,1.5 3.602,1.5l21.922 0c1.405,0 2.68,-0.573 3.603,-1.496 0.925,-0.929 1.499,-2.205 1.499,-3.606 0,-1.402 -0.574,-2.678 -1.499,-3.603 -0.923,-0.927 -2.198,-1.5 -3.603,-1.5z"/>
+   <path class="fil0" d="M201.173 165.378c0,3.326 -2.721,6.047 -6.047,6.047l-21.922 0c-3.325,0 -6.047,-2.721 -6.047,-6.047 0,-3.326 2.721,-6.048 6.047,-6.048l21.922 0c3.327,0 6.047,2.722 6.047,6.048z"/>
+   <path class="fil1" d="M195.126 160.275l-21.922 0c-1.404,0 -2.679,0.573 -3.602,1.496 -0.925,0.929 -1.5,2.205 -1.5,3.606 0,1.402 0.575,2.678 1.5,3.603 0.923,0.927 2.198,1.5 3.602,1.5l21.922 0c1.405,0 2.68,-0.573 3.603,-1.496 0.925,-0.929 1.499,-2.205 1.499,-3.606 0,-1.402 -0.574,-2.678 -1.499,-3.603 -0.923,-0.927 -2.198,-1.5 -3.603,-1.5z"/>
   </g>
  </g>
 </svg>

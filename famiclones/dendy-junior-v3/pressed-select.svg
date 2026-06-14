@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" viewBox="0 0 472 234" width="472px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
+<svg xml:space="preserve" viewBox="0 0 470 234" width="470px" height="234px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <style type="text/css">
-    .fil1 {fill:red}
     .fil0 {fill:url(#id0)}
+    .fil1 {fill:red}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="185.165" y1="171.047" x2="185.165" y2="158.952">
    <stop offset="0" style="stop-opacity:1; stop-color:#D00000"/>
