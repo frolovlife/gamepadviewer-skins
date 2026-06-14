@@ -35,79 +35,79 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 # 🎮 Controller skins
 
 - [**8BitDo**](#8bitdo)
-  - 8BitDo Pro 2: [gray](#8bitdo-pro-2-gray), [classic](#8bitdo-pro-2-classic), [black](#8bitdo-pro-2-black)
-  - 8BitDo Pro 3: [gray](#8bitdo-pro-3-gray), [classic](#8bitdo-pro-3-classic), [purple](#8bitdo-pro-3-purple), [orange](#8bitdo-pro-3-orange)
-  - 8BitDo M30: [black](#8bitdo-m30-black), [white](#8bitdo-m30-white)
+  - 8BitDo Pro 2: [gray](#8bitdo-pro-2-gray-%EF%B8%8F), [classic](#8bitdo-pro-2-classic-%EF%B8%8F), [black](#8bitdo-pro-2-black-%EF%B8%8F)
+  - 8BitDo Pro 3: [gray](#8bitdo-pro-3-gray-%EF%B8%8F), [classic](#8bitdo-pro-3-classic-%EF%B8%8F), [purple](#8bitdo-pro-3-purple-%EF%B8%8F), [orange](#8bitdo-pro-3-orange-%EF%B8%8F)
+  - 8BitDo M30: [black](#8bitdo-m30-black-%EF%B8%8F), [white](#8bitdo-m30-white-%EF%B8%8F)
 - [**Sega**](#sega)
-  - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
-  - Sega Saturn model 2: [black](#sega-saturn-model-2-black), [white](#sega-saturn-model-2-white), [gray](#sega-saturn-model-2-gray)
-  - Sega Dreamcast: [white](#sega-dreamcast-white), [black](#sega-dreamcast-black), [super black](#sega-dreamcast-super-black)
+  - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia-%EF%B8%8F), [USA](#sega-genesis-2-%EF%B8%8F), [Europe](#sega-mega-drive-2-europe-%EF%B8%8F)
+  - Sega Saturn model 2: [black](#sega-saturn-model-2-black-%EF%B8%8F), [white](#sega-saturn-model-2-white-%EF%B8%8F), [gray](#sega-saturn-model-2-gray-%EF%B8%8F)
+  - Sega Dreamcast: [white](#sega-dreamcast-white-%EF%B8%8F), [black](#sega-dreamcast-black-%EF%B8%8F), [super black](#sega-dreamcast-super-black-%EF%B8%8F)
 - [**Nintendo**](#nintendo)
-  - 8-bit: [Famicom](#famicom), [NES](#nes), [«Dogbone»](#nes-dogbone)
+  - 8-bit: [Famicom](#famicom), [NES](#nes-%EF%B8%8F), [«Dogbone»](#nes-dogbone)
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Famiclones**](#famiclones)
-  - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3)
+  - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
-  - [Panasonic FZ-1](#panasonic-fz-1), [Sanyo](#sanyo), [Panasonic FZ-10](#panasonic-fz-10)
+  - [Panasonic FZ-1](#panasonic-fz-1-%EF%B8%8F), [Sanyo](#sanyo-%EF%B8%8F), [Panasonic FZ-10](#panasonic-fz-10-%EF%B8%8F)
 - [**NEC**](#nec)
   - PC Engine / TurboGrafx 16: [PI-PD001](#nec-pc-engine-pi-pd001), [PI-PD002](#nec-pc-engine-pi-pd002), [PI-PD6](#nec-pc-engine-pi-pd6), [PI-PD8](#nec-pc-engine-pi-pd8), [TG 16](#nec-turbografx-16),  [PCE-Duo](#nec-pc-engine-duo), [TurboDuo](#nec-turboduo), [PCE-TP2](#nec-pc-engine-pce-tp2), [PCE-TP1 (Arcade Pad 6)](#nec-pc-engine-pce-tp1-arcade-pad-6)
   - [NEC PC-FX](#nec-pc-fx)
 - [**SNK**](snk)
-  - Neo-Geo: [MVS](#neo-geo-mvs), [AES](#neo-geo-aes), [Neo-Geo CD](#neo-geo-cd)
+  - Neo-Geo: [MVS](#neo-geo-mvs), [AES](#neo-geo-aes-%EF%B8%8F), [Neo-Geo CD](#neo-geo-cd-%EF%B8%8F)
 
 
 ## 8BitDo
 
-### 8BitDo Pro 2 (gray)
+### 8BitDo Pro 2 (gray) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/gray-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-gray.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-gray.css)
 
-### 8BitDo Pro 2 (classic)
+### 8BitDo Pro 2 (classic) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/classic-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-classic.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-classic.css)
 
-### 8BitDo Pro 2 (black)
+### 8BitDo Pro 2 (black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/black-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 
-### 8BitDo Pro 3 (gray)
+### 8BitDo Pro 3 (gray) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/gray-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-gray.css)
 
-### 8BitDo Pro 3 (classic)
+### 8BitDo Pro 3 (classic) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/classic-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-classic.css)
 
-### 8BitDo Pro 3 (purple)
+### 8BitDo Pro 3 (purple) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/purple-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-purple.css)
 
-### 8BitDo Pro 3 (orange)
+### 8BitDo Pro 3 (orange) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/orange-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro3-orange.css)
 
-### 8BitDo M30 (black)
+### 8BitDo M30 (black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-black.svg" width="40%"></p>
 
@@ -115,7 +115,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css)
 
-### 8BitDo M30 (white)
+### 8BitDo M30 (white) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-white.svg" width="40%"></p>
 
@@ -125,7 +125,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 ## Sega
 
-### Sega Mega Drive 2 (Japan/Asia)
+### Sega Mega Drive 2 (Japan/Asia) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview.svg" width="40%"></p>
 
@@ -134,7 +134,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
 
-### Sega Genesis 2
+### Sega Genesis 2 ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview-usa.svg" width="40%"></p>
 
@@ -143,7 +143,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/genesis2.css)
 
-### Sega Mega Drive 2 (Europe)
+### Sega Mega Drive 2 (Europe) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview-eu.svg" width="40%"></p>
 
@@ -152,7 +152,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2-eu.css)
 
-### Sega Saturn model 2 (black)
+### Sega Saturn model 2 (black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-black.svg" width="40%"></p>
 
@@ -160,7 +160,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-black.css)
 
-### Sega Saturn model 2 (white)
+### Sega Saturn model 2 (white) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-white.svg" width="40%"></p>
 
@@ -168,7 +168,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-white.css)
 
-### Sega Saturn model 2 (gray)
+### Sega Saturn model 2 (gray) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/saturn-m2/preview-gray.svg" width="40%"></p>
 
@@ -176,7 +176,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/saturn-m2-gray.css)
 
-### Sega Dreamcast (white)
+### Sega Dreamcast (white) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/white-preview.svg" width="40%"></p>
 
@@ -184,7 +184,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-white.css)
 
-### Sega Dreamcast (black)
+### Sega Dreamcast (black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/black-preview.svg" width="40%"></p>
 
@@ -192,7 +192,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-black.css)
 
-### Sega Dreamcast (super black)
+### Sega Dreamcast (super black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/dreamcast/superblack-preview.svg" width="40%"></p>
 
@@ -219,7 +219,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/nintendo/famicom-xy.css)
 
-### NES
+### NES ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/nes/preview.svg" width="40%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/nintendo/nes/preview-xy.svg" width="40%"></p>
 
@@ -299,7 +299,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/famiclones/dendy-junior-v2.css)
 
-### Dendy Junior (var. 3)
+### Dendy Junior (var. 3) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/famiclones/dendy-junior-v3/preview-v3.svg" width="40%"></p>
 
@@ -310,7 +310,7 @@ With buttons X and Y
 
 ## 3DO
 
-### Panasonic FZ-1
+### Panasonic FZ-1 ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-fz1.svg" width="40%"></p>
 
@@ -320,7 +320,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to RB, A to X, B to A, RT to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/3do/fz1.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/3do/fz1.css)
 
-### Sanyo
+### Sanyo ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-sanyo.svg" width="40%"></p>
 
@@ -330,7 +330,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to RB, A to X, B to A, RT to B)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/3do/sanyo.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"6"},{"targetType":"buttons","target":"2","disabled":false,"choiceType":"buttons","choice":"0"},{"targetType":"buttons","target":"0","disabled":false,"choiceType":"buttons","choice":"1"},{"targetType":"buttons","target":"1","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/3do/sanyo.css)
 
-### Panasonic FZ-10
+### Panasonic FZ-10 ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/3do/panasonic/preview-fz10.svg" width="40%"></p>
 
@@ -498,7 +498,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/mvs.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/snk/mvs.css)
 
-### Neo-Geo AES
+### Neo-Geo AES ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/aes/preview.svg" width="40%"></p>
 
@@ -506,7 +506,7 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/snk/aes.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/snk/aes.css)
 
-### Neo-Geo CD
+### Neo-Geo CD ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/snk/neogeo-cd/preview-v1.svg" width="40%"></p>
 
