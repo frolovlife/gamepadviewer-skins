@@ -38,19 +38,19 @@
 }
 
 .custom .bumper.left {
-  background-image: url(saturn-m2/black-trigger.svg);
+  background-image: url(saturn-3d/black-trigger.svg);
 }
 
 .custom .bumper.left.pressed {
-  background-image: url(saturn-m2/pressed-trigger.svg);
+  background-image: url(saturn-3d/pressed-trigger.svg);
 }
 
 .custom .bumper.right {
-  background-image: url(saturn-m2/black-button-z.svg);
+  background-image: url(saturn-3d/black-button-z.svg);
 }
 
 .custom .bumper.right.pressed {
-  background-image: url(saturn-m2/pressed-button-z.svg);
+  background-image: url(saturn-3d/pressed-button-z.svg);
 }
 
 .custom .triggers {
@@ -66,21 +66,21 @@
 }
 
 .custom .trigger-button.left {
-  background-image: url(saturn-m2/black-trigger.svg);
+  background-image: url(saturn-3d/black-trigger.svg);
   transform: rotateY(180deg);
 }
 
 .custom .trigger-button.left.pressed {
-  background-image: url(saturn-m2/pressed-trigger.svg);
+  background-image: url(saturn-3d/pressed-trigger.svg);
   transform: rotateY(180deg);
 }
 
 .custom .trigger-button.right {
-  background-image: url(saturn-m2/black-button-c.svg);
+  background-image: url(saturn-3d/black-button-c.svg);
 }
 
 .custom .trigger-button.right.pressed {
-  background-image: url(saturn-m2/pressed-button-c.svg);
+  background-image: url(saturn-3d/pressed-button-c.svg);
 }
 
 /* Start. */
