@@ -1,0 +1,216 @@
+/*BEGIN Sega Saturn 3D Black Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(saturn-3d/black-base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 498px;
+  height: 522px;
+  transform: scale(1.00671) translate(-50%, -50%);
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(saturn-3d/black-base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(saturn-3d/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* C, Z and Shifts */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.left {
+  background-image: url(saturn-m2/black-trigger.svg);
+}
+
+.custom .bumper.left.pressed {
+  background-image: url(saturn-m2/pressed-trigger.svg);
+}
+
+.custom .bumper.right {
+  background-image: url(saturn-m2/black-button-z.svg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(saturn-m2/pressed-button-z.svg);
+}
+
+.custom .triggers {
+}
+
+.custom .trigger-button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .trigger-button.left {
+  background-image: url(saturn-m2/black-trigger.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .trigger-button.left.pressed {
+  background-image: url(saturn-m2/pressed-trigger.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .trigger-button.right {
+  background-image: url(saturn-m2/black-button-c.svg);
+}
+
+.custom .trigger-button.right.pressed {
+  background-image: url(saturn-m2/pressed-button-c.svg);
+}
+
+/* Start. */
+.custom .arrows {
+}
+
+.custom .start {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-image: url(saturn-3d/black-start.svg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start.pressed {
+  background-image: url(saturn-3d/pressed-start.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(saturn-3d/black-button-a.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(saturn-3d/pressed-button-a.svg);
+}
+
+.custom .b {
+  background-image: url(saturn-3d/black-button-b.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(saturn-3d/pressed-button-b.svg);
+}
+
+.custom .x {
+  background-image: url(saturn-3d/black-button-x.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(saturn-3d/pressed-button-x.svg);
+}
+
+.custom .y {
+  background-image: url(saturn-3d/black-button-y.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(saturn-3d/pressed-button-y.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+  background-image: url(saturn-3d/black-dpad.svg);
+}
+
+.custom .face {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(saturn-3d/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(saturn-3d/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(saturn-3d/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(saturn-3d/pressed-dpad-right.svg);
+}
+
+/* Stick */
+.custom .sticks {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 115px;
+  left: 42px;
+}
+
+.custom .stick {
+  position: absolute;
+  height: 95px;
+  width: 95px;
+}
+
+.custom .stick.left {
+  background: url(saturn-3d/black-stick.svg);
+}
+
+.custom .stick.left.pressed {
+  background: url(saturn-3d/pressed-stick.svg);
+}

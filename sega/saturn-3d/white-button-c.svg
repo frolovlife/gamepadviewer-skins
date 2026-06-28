@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 498 522" width="498px" height="522px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil38 {fill:black;fill-opacity:0.05}
+    .fil42 {fill:black;fill-opacity:0.25}
+    .fil52 {fill:url(#id15)}
+    .fil53 {fill:url(#id20)}
+    .fil51 {fill:url(#id34);fill-opacity:0.6}
+  </style>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" x1="426.136" y1="196.832" x2="426.136" y2="238.406">
+   <stop offset="0" style="stop-opacity:1; stop-color:#67B3FF"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#1990FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#146DC2"/>
+  </linearGradient>
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" x1="426.136" y1="198.721" x2="426.136" y2="236.516">
+   <stop offset="0" style="stop-opacity:1; stop-color:#339CFF"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#1990FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1475CF"/>
+  </linearGradient>
+  <linearGradient id="id34" gradientUnits="userSpaceOnUse" xlink:href="#id20" x1="426.136" y1="195.697" x2="426.136" y2="239.54">
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-c">
+   <path class="fil51" d="M426.136 239.54c12.107,0 21.922,-9.815 21.922,-21.921 0,-12.107 -9.815,-21.922 -21.922,-21.922 -12.106,0 -21.921,9.815 -21.921,21.922 0,12.106 9.815,21.921 21.921,21.921z"/>
+   <circle class="fil52" cx="426.136" cy="217.619" r="20.787"/>
+   <circle class="fil53" cx="426.136" cy="217.619" r="18.898"/>
+   <path class="fil38" d="M426.137 238.406c11.48,0 20.787,-9.307 20.787,-20.787l0 -0.001c-5.109,5.703 -12.529,9.293 -20.787,9.293 -8.259,0 -15.679,-3.591 -20.788,-9.294l0 0.002c0,11.48 9.307,20.787 20.788,20.787z"/>
+   <path class="fil42" d="M431.949 210.425c-2.097,-0.138 -4.709,0.327 -7.304,1.313 -1.364,0.465 -2.737,1.076 -4.041,1.822 -4.069,2.341 -6.096,5.308 -5.1,7.978 0.706,1.865 2.617,2.875 5.329,3.025 1.82,0.102 3.835,-0.187 6.082,-0.862 0.76,-0.226 1.479,-0.468 2.157,-0.722 5.515,-1.906 8.516,-4.641 8.329,-7.06 0.009,-0.255 -0.048,-0.504 -0.158,-0.717 -1.002,0.361 -2.004,0.722 -3.007,1.084 0.065,0.178 0.069,0.378 0.069,0.563 -0.068,1.795 -1.999,3.634 -4.962,4.789 -0.451,0.15 -0.923,0.285 -1.412,0.401 -2.912,0.697 -5.426,0.256 -6.741,-1.524 -2.156,-2.996 0.241,-6.22 4.473,-7.875 0.295,-0.097 0.596,-0.188 0.904,-0.27 3.099,-0.831 5.459,-0.537 6.54,0.874 0.113,0.127 0.196,0.265 0.25,0.414 1.002,-0.361 2.004,-0.722 3.007,-1.083l-1.47 -4.08c-0.913,0.329 -1.826,0.658 -2.739,0.987l-0.206 0.943z"/>
+  </g>
+ </g>
+</svg>

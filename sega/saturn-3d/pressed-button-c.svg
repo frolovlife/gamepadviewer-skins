@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 498 522" width="498px" height="522px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil2 {fill:black;fill-opacity:0.05}
+    .fil3 {fill:black;fill-opacity:0.25}
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1);fill-opacity:0.5}
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C00000"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:red"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50%" y1="100%" x2="50%" y2="0%">
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-c">
+   <path class="fil0" d="M426.136 195.697c12.107,0 21.922,9.815 21.922,21.922 0,12.106 -9.815,21.921 -21.922,21.921 -12.106,0 -21.921,-9.815 -21.921,-21.921 0,-12.107 9.815,-21.922 21.921,-21.922z"/>
+   <path class="fil1" d="M426.136 196.831c11.481,0 20.788,9.307 20.788,20.788 0,11.48 -9.307,20.787 -20.788,20.787 -11.48,0 -20.787,-9.307 -20.787,-20.787 0,-11.481 9.307,-20.788 20.787,-20.788z"/>
+   <path class="fil2" d="M426.136 238.406c11.48,0 20.786,-9.306 20.786,-20.786l0 -0.001c-5.108,5.703 -12.527,9.293 -20.786,9.293 -8.258,0 -15.677,-3.591 -20.786,-9.294l0 0.002c0,11.48 9.307,20.786 20.786,20.786z"/>
+   <path class="fil3" d="M431.949 210.425c-2.097,-0.138 -4.709,0.327 -7.304,1.313 -1.364,0.465 -2.737,1.076 -4.041,1.822 -4.069,2.341 -6.096,5.308 -5.1,7.978 0.706,1.865 2.617,2.875 5.329,3.025 1.82,0.102 3.835,-0.187 6.082,-0.862 0.76,-0.226 1.479,-0.468 2.157,-0.722 5.515,-1.906 8.516,-4.641 8.329,-7.06 0.009,-0.255 -0.048,-0.504 -0.158,-0.717 -1.002,0.361 -2.004,0.722 -3.007,1.084 0.065,0.178 0.069,0.378 0.069,0.563 -0.068,1.795 -1.999,3.634 -4.962,4.789 -0.451,0.15 -0.923,0.285 -1.412,0.401 -2.912,0.697 -5.426,0.256 -6.741,-1.524 -2.156,-2.996 0.241,-6.22 4.473,-7.875 0.295,-0.097 0.596,-0.188 0.904,-0.27 3.099,-0.831 5.459,-0.537 6.54,0.874 0.113,0.127 0.196,0.265 0.25,0.414 1.002,-0.361 2.004,-0.722 3.007,-1.083l-1.47 -4.08c-0.913,0.329 -1.826,0.658 -2.739,0.987l-0.206 0.943z"/>
+  </g>
+ </g>
+</svg>
