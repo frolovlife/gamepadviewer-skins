@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 560 394" width="560px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil18 {fill:red}
+  </style>
+ </defs>
+ <g>
+  <g id="button-select">
+   <path class="fil18" d="M253.755 205.005l-17.018 0c-2.118,0 -3.849,1.731 -3.849,3.849l0 7.062c0,2.118 1.731,3.849 3.849,3.849l17.018 0c2.118,0 3.85,-1.731 3.85,-3.849l0 -7.062c0,-2.118 -1.732,-3.849 -3.85,-3.849z"/>
+  </g>
+ </g>
+</svg>

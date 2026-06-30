@@ -1,0 +1,204 @@
+/*BEGIN Sony PlayStation Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(playstation/grey-base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 582px;
+  height: 460px;
+  transform: scale(1.30434) translate(-50%, -50%);
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(playstation/grey-base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(playstation/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Shifts */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.left {
+  background-image: url(playstation/shift-l1.svg);
+}
+
+.custom .bumper.left.pressed {
+  background-image: url(playstation/pressed-shift-l1.svg);
+}
+
+.custom .bumper.right {
+  background-image: url(playstation/classic-shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(playstation/pressed-shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .triggers {
+}
+
+.custom .trigger-button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .trigger-button.left {
+  background-image: url(playstation/shift-l2.svg);
+}
+
+.custom .trigger-button.left.pressed {
+  background-image: url(playstation/pressed-shift-l2.svg);
+}
+
+.custom .trigger-button.right {
+  background-image: url(playstation/shift-l2.svg);
+}
+
+.custom .trigger-button.right.pressed {
+  background-image: url(playstation/pressed-shift-l2.svg);
+}
+
+/* Start and Select. */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(playstation/button-start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(playstation/pressed-button-start.svg);
+}
+
+.custom .back {
+  background-image: url(playstation/button-select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(playstation/pressed-button-select.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(playstation/button-cross.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(playstation/pressed-button-cross.svg);
+}
+
+.custom .b {
+  background-image: url(playstation/button-circle.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(playstation/pressed-button-circle.svg);
+}
+
+.custom .x {
+  background-image: url(playstation/button-square.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(playstation/pressed-button-square.svg);
+}
+
+.custom .y {
+  background-image: url(playstation/button-triangle.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(playstation/pressed-button-triangle.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+}
+
+.custom .face {
+  position: absolute;
+  background-image: url(playstation/classic-dpad.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(playstation/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(playstation/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(playstation/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(playstation/pressed-dpad-right.svg);
+}

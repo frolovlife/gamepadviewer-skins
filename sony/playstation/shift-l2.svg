@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 560 394" width="560px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil25 {fill:black;fill-opacity:0.3}
+    .fil24 {fill:white;fill-opacity:0.3}
+    .fil23 {fill:url(#id7)}
+  </style>
+  <linearGradient id="id7" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#5A5A5A"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#5A5A5A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4D4D4D"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-L2">
+   <path class="fil23" d="M94.904 0.525l54.041 0c4.2,0 7.636,3.436 7.636,7.635l0 17.484c0,4.199 -3.436,7.635 -7.636,7.635l-54.041 0c-4.199,0 -7.635,-3.436 -7.635,-7.635l0 -17.484c0,-4.199 3.436,-7.635 7.635,-7.635z"/>
+   <path class="fil24" d="M94.904 0.525l54.041 0c4.2,0 7.636,3.436 7.636,7.635l0 2.268c0,-4.199 -3.436,-7.635 -7.636,-7.635l-54.041 0c-4.199,0 -7.635,3.436 -7.635,7.635l0 -2.268c0,-4.199 3.436,-7.635 7.635,-7.635z"/>
+   <path class="fil25" d="M156.581 23.376l0 2.268c0,4.199 -3.436,7.635 -7.636,7.635l-54.041 0c-4.199,0 -7.635,-3.436 -7.635,-7.635l0 -2.268c0,4.199 3.436,7.635 7.635,7.635l54.041 0c4.2,0 7.636,-3.436 7.636,-7.635z"/>
+  </g>
+ </g>
+</svg>
