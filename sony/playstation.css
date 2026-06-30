@@ -46,7 +46,7 @@
 }
 
 .custom .bumper.right {
-  background-image: url(playstation/classic-shift-l1.svg);
+  background-image: url(playstation/shift-l1.svg);
   transform: rotateY(180deg);
 }
 
