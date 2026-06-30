@@ -543,4 +543,4 @@ With buttons X and Y
 
 ---
 
-*This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with 8BitDo, Nintendo, Sega, SNK, NEC, Panasonic, Sanyo etc. All product, company names and logos are trademarks™ or registered® trademarks of their respective owners.*
+*This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with 8BitDo, Nintendo, Sony, Sega, SNK, NEC, Panasonic, Sanyo etc. All product, company names and logos are trademarks™ or registered® trademarks of their respective owners.*
