@@ -77,10 +77,12 @@
 
 .custom .trigger-button.right {
   background-image: url(playstation/shift-l2.svg);
+  transform: rotateY(180deg);
 }
 
 .custom .trigger-button.right.pressed {
   background-image: url(playstation/pressed-shift-l2.svg);
+  transform: rotateY(180deg);
 }
 
 /* Start and Select. */
