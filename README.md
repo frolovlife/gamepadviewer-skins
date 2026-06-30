@@ -47,7 +47,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - 8-bit: [Famicom](#famicom), [NES](#nes-%EF%B8%8F), [«Dogbone»](#nes-dogbone)
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Sony**](#sony)
-  - [PlayStation](#playstation)
+  - [PlayStation](#playstation-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -291,7 +291,7 @@ With buttons X and Y
 
 ## Sony
 
-### PlayStation
+### PlayStation ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/playstation/grey-preview.svg" width="40%"></p>
 
