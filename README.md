@@ -35,8 +35,8 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 # 🎮 Controller skins
 
 - [**8BitDo**](#8bitdo)
-  - 8BitDo Pro 2: [gray](#8bitdo-pro-2-gray-%EF%B8%8F), [classic](#8bitdo-pro-2-classic-%EF%B8%8F), [black](#8bitdo-pro-2-black-%EF%B8%8F)
-  - 8BitDo Pro 3: [gray](#8bitdo-pro-3-gray-%EF%B8%8F), [classic](#8bitdo-pro-3-classic-%EF%B8%8F), [purple](#8bitdo-pro-3-purple-%EF%B8%8F), [orange](#8bitdo-pro-3-orange-%EF%B8%8F)
+  - 8BitDo Pro 2: [grey](#8bitdo-pro-2-grey-%EF%B8%8F), [classic](#8bitdo-pro-2-classic-%EF%B8%8F), [black](#8bitdo-pro-2-black-%EF%B8%8F)
+  - 8BitDo Pro 3: [grey](#8bitdo-pro-3-grey-%EF%B8%8F), [classic](#8bitdo-pro-3-classic-%EF%B8%8F), [purple](#8bitdo-pro-3-purple-%EF%B8%8F), [orange](#8bitdo-pro-3-orange-%EF%B8%8F)
   - 8BitDo M30: [black](#8bitdo-m30-black-%EF%B8%8F), [white](#8bitdo-m30-white-%EF%B8%8F)
 - [**Sega**](#sega)
   - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia-%EF%B8%8F), [USA](#sega-genesis-2-%EF%B8%8F), [Europe](#sega-mega-drive-2-europe-%EF%B8%8F)
@@ -47,7 +47,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - 8-bit: [Famicom](#famicom), [NES](#nes-%EF%B8%8F), [«Dogbone»](#nes-dogbone)
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Sony**](#sony)
-  - [PlayStation](#playstation-%EF%B8%8F)
+  - PlayStation: [grey](#playstation-grey-%EF%B8%8F), [black](#playstation-black-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -61,7 +61,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 ## 8BitDo
 
-### 8BitDo Pro 2 (gray) ✔️
+### 8BitDo Pro 2 (grey) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro2/gray-preview.svg" width="40%"></p>
 
@@ -82,7 +82,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=15&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/8bitdo/pro2-black.css)
 
-### 8BitDo Pro 3 (gray) ✔️
+### 8BitDo Pro 3 (grey) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/pro3/gray-preview.svg" width="40%"></p>
 
@@ -291,13 +291,21 @@ With buttons X and Y
 
 ## Sony
 
-### PlayStation ✔️
+### PlayStation (grey) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/playstation/grey-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation.css)
-- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
-- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/playstation.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-grey.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-grey.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-grey.css)
+
+### PlayStation (black) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/playstation/black-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-black.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-black.css)
 
 
 ## Famiclones
