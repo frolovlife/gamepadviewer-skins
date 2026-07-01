@@ -4,10 +4,10 @@
  <defs>
   <style type="text/css">
     .str0 {stroke:black;stroke-width:1.5;stroke-opacity:0.3}
-    .str1 {stroke:#58BA62;stroke-width:3}
-    .str3 {stroke:#72A7DA;stroke-width:3}
-    .str4 {stroke:#E55143;stroke-width:3}
-    .str2 {stroke:#E9BD48;stroke-width:3}
+    .str1 {stroke:#58BA62;stroke-width:2}
+    .str3 {stroke:#72A7DA;stroke-width:2}
+    .str4 {stroke:#E55143;stroke-width:2}
+    .str2 {stroke:#E9BD48;stroke-width:2}
     .fil29 {fill:none}
     .fil2 {fill:none}
     .fil12 {fill:#080808}
