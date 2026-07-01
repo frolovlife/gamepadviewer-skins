@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   width: 582px;
   height: 460px;
-  transform: scale(1.30434) translate(-50%, -50%);
+  transform: scale(1.04348) translate(-50%, -50%);
 }
 
 .controller.custom:not(.disconnected) {
@@ -76,16 +76,14 @@
 }
 
 .custom .trigger-button.right {
-  background-image: url(playstation/shift-l2.svg);
-  transform: rotateY(180deg);
+  background-image: url(playstation/shift-r2.svg);
 }
 
 .custom .trigger-button.right.pressed {
-  background-image: url(playstation/pressed-shift-l2.svg);
-  transform: rotateY(180deg);
+  background-image: url(playstation/pressed-shift-r2.svg);
 }
 
-/* Start and Select. */
+/* Start and Select */
 .custom .arrows {
 }
 
