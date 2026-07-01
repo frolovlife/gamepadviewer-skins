@@ -7,9 +7,9 @@
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  width: 582px;
-  height: 460px;
-  transform: scale(1.04348) translate(-50%, -50%);
+  width: 560px;
+  height: 394px;
+  transform: scale(1.14286) translate(-50%, -50%);
 }
 
 .controller.custom:not(.disconnected) {
