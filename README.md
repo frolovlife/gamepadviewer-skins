@@ -307,6 +307,20 @@ With buttons X and Y
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/playstation-black.css)
 
+### DualShock (grey) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock/grey-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-grey.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-grey.css)
+
+### DualShock (white) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock/white-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-white.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-white.css)
+
 
 ## Famiclones
 
