@@ -206,16 +206,16 @@
 /* Sticks */
 .custom .sticks {
   position: absolute;
-  width: 240px;
-  height: 75px;
+  width: 242px;
+  height: 77px;
   top: 223px;
-  left: 171px;
+  left: 176px;
 }
 
 .custom .stick {
   position: absolute;
-  height: 75px;
-  width: 75px;
+  height: 77px;
+  width: 76px;
 }
 
 .custom .stick.left {
