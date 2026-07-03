@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:white;stroke-width:2;stroke-opacity:0.5}
+    .fil3 {fill:none}
+    .fil0 {fill:red}
+    .fil2 {fill:white;fill-opacity:0.4}
+  </style>
+ </defs>
+ <g>
+  <g id="pressed-button-square">
+   <circle class="fil0" cx="428.126" cy="177.072" r="19.276"/>
+   <path class="fil2" d="M428.126 159.179c8.073,0 14.898,5.347 17.125,12.694 0.043,0.141 -0.03,0.29 -0.168,0.342 -0.142,0.054 -0.301,-0.016 -0.359,-0.157 -2.649,-6.567 -9.082,-11.2 -16.598,-11.2 -7.518,0 -13.952,4.636 -16.601,11.204 -0.056,0.141 -0.215,0.211 -0.357,0.157 -0.138,-0.052 -0.212,-0.201 -0.169,-0.342 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
+   <polygon class="fil3 str0" points="418.505,167.451 437.747,167.451 437.747,186.693 418.505,186.693 "/>
+  </g>
+ </g>
+</svg>

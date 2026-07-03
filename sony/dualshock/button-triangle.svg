@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .str1 {stroke:#E9BD48;stroke-width:2}
+    .fil8 {fill:none}
+    .fil6 {fill:white;fill-opacity:0.5}
+    .fil7 {fill:url(#id0)}
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="25%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#444444"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-triangle">
+   <circle class="fil7" cx="472.96" cy="132.237" r="19.276"/>
+   <path class="fil6" d="M472.96 114.344c8.074,0 14.899,5.348 17.126,12.694 0.042,0.141 -0.031,0.29 -0.169,0.342 -0.142,0.054 -0.301,-0.016 -0.358,-0.156 -2.65,-6.567 -9.083,-11.201 -16.599,-11.201 -7.517,0 -13.952,4.636 -16.6,11.204 -0.057,0.141 -0.216,0.211 -0.358,0.158 -0.138,-0.053 -0.211,-0.202 -0.169,-0.343 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
+   <polygon class="fil8 str1" points="472.96,120.111 478.572,129.832 484.185,139.552 472.96,139.552 461.736,139.552 467.348,129.832 "/>
+  </g>
+ </g>
+</svg>

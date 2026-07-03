@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil5 {fill:#4D4D4D}
+    .fil3 {fill:black;fill-opacity:0.3}
+    .fil6 {fill:white;fill-opacity:0.5}
+  </style>
+ </defs>
+ <g>
+  <g id="button-select">
+   <path class="fil5" d="M253.735 169.863l-17.018 0c-2.118,0 -3.849,1.731 -3.849,3.85l0 7.062c0,2.118 1.731,3.849 3.849,3.849l17.018 0c2.118,0 3.85,-1.731 3.85,-3.849l0 -7.062c0,-2.119 -1.732,-3.85 -3.85,-3.85z"/>
+   <path class="fil6" d="M253.735 169.863l-17.018 0c-2.118,0 -3.849,1.731 -3.849,3.85l0 0.756c0,-2.119 1.731,-3.85 3.849,-3.85l17.018 0c2.118,0 3.85,1.731 3.85,3.85l0 -0.756c0,-2.119 -1.732,-3.85 -3.85,-3.85z"/>
+   <path class="fil3" d="M232.868 180.019l0 0.756c0,2.118 1.731,3.849 3.849,3.849l17.018 0c2.118,0 3.85,-1.731 3.85,-3.849l0 -0.756c0,2.118 -1.732,3.849 -3.85,3.849l-17.018 0c-2.118,0 -3.849,-1.731 -3.849,-3.849z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:white;stroke-width:2;stroke-opacity:0.5}
+    .fil3 {fill:none}
+    .fil0 {fill:red}
+    .fil2 {fill:white;fill-opacity:0.4}
+  </style>
+ </defs>
+ <g>
+  <g id="pressed-button-cross">
+   <circle class="fil0" cx="472.96" cy="221.906" r="19.276"/>
+   <path class="fil2" d="M472.96 204.013c8.074,0 14.899,5.348 17.126,12.694 0.042,0.142 -0.031,0.291 -0.169,0.343 -0.142,0.054 -0.301,-0.016 -0.358,-0.157 -2.65,-6.567 -9.083,-11.201 -16.599,-11.201 -7.517,0 -13.952,4.636 -16.6,11.205 -0.057,0.14 -0.216,0.211 -0.358,0.157 -0.138,-0.052 -0.211,-0.202 -0.169,-0.343 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
+   <path class="fil3 str0" d="M463.339 212.286l19.242 19.241m-19.242 0l19.242 -19.241"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,238 @@
+/*BEGIN Sony DualShock White Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(dualshock/white-base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 594px;
+  height: 394px;
+  transform: scale(1.30434) translate(-50%, -50%);
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(dualshock/white-base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(dualshock/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Shifts */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.left {
+  background-image: url(dualshock/shift-l1.svg);
+}
+
+.custom .bumper.left.pressed {
+  background-image: url(dualshock/pressed-shift-l1.svg);
+}
+
+.custom .bumper.right {
+  background-image: url(dualshock/shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(dualshock/pressed-shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .triggers {
+}
+
+.custom .trigger-button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .trigger-button.left {
+  background-image: url(dualshock/shift-l2.svg);
+}
+
+.custom .trigger-button.left.pressed {
+  background-image: url(dualshock/pressed-shift-l2.svg);
+}
+
+.custom .trigger-button.right {
+  background-image: url(dualshock/shift-r2.svg);
+}
+
+.custom .trigger-button.right.pressed {
+  background-image: url(dualshock/pressed-shift-r2.svg);
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(dualshock/button-start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(dualshock/pressed-button-start.svg);
+}
+
+.custom .back {
+  background-image: url(dualshock/button-select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(dualshock/pressed-button-select.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(dualshock/button-cross.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(dualshock/pressed-button-cross.svg);
+}
+
+.custom .b {
+  background-image: url(dualshock/button-circle.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(dualshock/pressed-button-circle.svg);
+}
+
+.custom .x {
+  background-image: url(dualshock/button-square.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(dualshock/pressed-button-square.svg);
+}
+
+.custom .y {
+  background-image: url(dualshock/button-triangle.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(dualshock/pressed-button-triangle.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+}
+
+.custom .face {
+  position: absolute;
+  background-image: url(dualshock/dpad.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(dualshock/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(dualshock/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(dualshock/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(dualshock/pressed-dpad-right.svg);
+}
+
+/* Sticks */
+.custom .sticks {
+  position: absolute;
+  width: 240px;
+  height: 75px;
+  top: 223px;
+  left: 171px;
+}
+
+.custom .stick {
+  position: absolute;
+  height: 75px;
+  width: 75px;
+}
+
+.custom .stick.left {
+  background: url(dualshock/stick-left.svg);
+}
+
+.custom .stick.left.pressed {
+  background: url(dualshock/pressed-stick-left.svg);
+}
+
+.custom .stick.right {
+  background: url(dualshock/stick-left.svg);
+  transform: rotateY(180deg);
+  top: calc(0%);
+  left: calc(100% - 75px);
+}
+
+.custom .stick.right.pressed {
+  background: url(dualshock/pressed-stick-left.svg);
+}
