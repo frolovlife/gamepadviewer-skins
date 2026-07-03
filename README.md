@@ -48,6 +48,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
 - [**Sony**](#sony)
   - PlayStation: [grey](#playstation-grey-%EF%B8%8F), [black](#playstation-black-%EF%B8%8F)
+  - DualShock: [grey](#dualshock-grey-%EF%B8%8F), [white](#dualshock-white-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
