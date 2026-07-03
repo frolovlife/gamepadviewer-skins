@@ -128,7 +128,9 @@
   </linearGradient>
   <linearGradient id="id12" gradientUnits="userSpaceOnUse" xlink:href="#id11" x1="590.484" y1="246.979" x2="396.168" y2="308.179">
   </linearGradient>
-  <linearGradient id="id13" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50%" y1="100%" x2="50%" y2="0%">
+  <linearGradient id="id13" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="7.28244e-15%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#232323"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#707070"/>
   </linearGradient>
  </defs>
  <g>
