@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:red}
+  </style>
+ </defs>
+ <g>
+  <path id="pressed-dpad-right" class="fil0" d="M152.177 188.521l17.063 0c2.082,0 3.78,1.697 3.78,3.779l0 21.544c0,2.081 -1.698,3.779 -3.78,3.779l-17.063 0c-1.04,0 -1.936,-0.371 -2.672,-1.107l-10.772 -10.772c-1.472,-1.472 -1.472,-3.873 0,-5.345l10.772 -10.771c0.736,-0.736 1.632,-1.107 2.672,-1.107z"/>
+ </g>
+</svg>

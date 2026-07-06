@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 77 76" width="77px" height="76px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil1 {fill:url(#id2);fill-opacity:0.3333}
+    .fil2 {fill:url(#id3);fill-opacity:0.5}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="38.263" y1="75.591" x2="38.263" y2="0">
+   <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="38.263" y1="67.087" x2="38.263" y2="8.504">
+   <stop offset="0" style="stop-opacity:1; stop-color:#404040"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#707070"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="38.263" y1="72.756" x2="38.263" y2="2.834">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="38.263" y1="69.921" x2="38.263" y2="5.669">
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="L3">
+   <circle class="fil0" cx="38.263" cy="37.795" r="37.795"/>
+   <path class="fil1" d="M38.263 2.834c19.308,0 34.961,15.653 34.961,34.961 0,19.308 -15.653,34.961 -34.961,34.961 -19.308,0 -34.961,-15.653 -34.961,-34.961 0,-19.308 15.653,-34.961 34.961,-34.961z"/>
+   <path class="fil2" d="M38.263 5.669c17.743,0 32.126,14.383 32.126,32.126 0,17.743 -14.383,32.126 -32.126,32.126 -17.743,0 -32.126,-14.383 -32.126,-32.126 0,-17.743 14.383,-32.126 32.126,-32.126z"/>
+   <circle class="fil3" cx="38.263" cy="37.795" r="29.292"/>
+  </g>
+ </g>
+</svg>

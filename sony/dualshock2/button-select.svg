@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 420" width="594px" height="420px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil5 {fill:#4D4D4D}
+    .fil7 {fill:url(#id1)}
+  </style>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="245.584" y1="210.064" x2="245.584" y2="196.08">
+   <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.05" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.15" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.85" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.95" style="stop-opacity:1; stop-color:#999999"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-select">
+   <path class="fil7" d="M235.758 196.08l19.653 0c1.041,0 1.89,0.849 1.89,1.89l0 10.204c0,1.041 -0.849,1.89 -1.89,1.89l-19.653 0c-1.041,0 -1.89,-0.849 -1.89,-1.89l0 -10.204c0,-1.041 0.849,-1.89 1.89,-1.89z"/>
+   <path class="fil5" d="M235.758 197.025l19.653 0c0.521,0 0.945,0.424 0.945,0.945l0 10.204c0,0.521 -0.424,0.945 -0.945,0.945l-19.653 0c-0.521,0 -0.945,-0.424 -0.945,-0.945l0 -10.204c0,-0.521 0.424,-0.945 0.945,-0.945z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 420" width="594px" height="420px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil5 {fill:#4D4D4D}
+    .fil9 {fill:url(#id0)}
+    .fil8 {fill:url(#id6)}
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="349.321" y1="210.558" x2="349.321" y2="195.587">
+   <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.38" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.62" style="stop-opacity:1; stop-color:#999999"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="339.315" y1="210.631" x2="339.315" y2="195.514">
+   <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.05" style="stop-opacity:1; stop-color:#333333"/>
+   <stop offset="0.15" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.85" style="stop-opacity:1; stop-color:#666666"/>
+   <stop offset="0.95" style="stop-opacity:1; stop-color:#999999"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="button-start">
+   <path class="fil8" d="M334.782 208.736l0 -11.327c0,-0.611 0.285,-1.136 0.816,-1.505 0.532,-0.37 1.162,-0.48 1.806,-0.317l12.167 7.486 -12.167 7.485c-0.644,0.163 -1.274,0.052 -1.805,-0.317 -0.532,-0.369 -0.817,-0.895 -0.817,-1.505z"/>
+   <path class="fil9" d="M337.404 195.587l22.319 5.664c0.908,0.23 1.515,0.96 1.515,1.822 -0.001,0.862 -0.607,1.591 -1.515,1.821l-22.319 5.664 0 -14.971z"/>
+   <path class="fil5" d="M335.727 197.409l0 11.327c0,0.319 0.148,0.551 0.407,0.73 0.315,0.218 0.672,0.27 1.041,0.176l22.319 -5.663c0.438,-0.111 0.795,-0.43 0.799,-0.906 0.004,-0.474 -0.368,-0.797 -0.799,-0.907l-22.319 -5.663c-0.368,-0.094 -0.724,-0.043 -1.038,0.176 -0.264,0.183 -0.41,0.405 -0.41,0.73z"/>
+  </g>
+ </g>
+</svg>
