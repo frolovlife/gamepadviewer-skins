@@ -4,20 +4,20 @@
  <defs>
   <style type="text/css">
     .str3 {stroke:#E55143;stroke-width:2}
-    .fil8 {fill:none}
-    .fil6 {fill:white;fill-opacity:0.5}
-    .fil7 {fill:url(#id0)}
+    .fil11 {fill:none}
+    .fil10 {fill:white;fill-opacity:0.5}
+    .fil9 {fill:url(#id2)}
   </style>
-  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="25%">
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="25%">
    <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#444444"/>
   </linearGradient>
  </defs>
  <g>
   <g id="button-circle">
-   <circle class="fil7" cx="517.796" cy="177.072" r="19.276"/>
-   <path class="fil6" d="M517.796 159.179c8.073,0 14.899,5.347 17.125,12.694 0.043,0.141 -0.03,0.29 -0.168,0.342 -0.142,0.054 -0.301,-0.016 -0.358,-0.157 -2.65,-6.567 -9.083,-11.2 -16.599,-11.2 -7.518,0 -13.952,4.636 -16.6,11.204 -0.057,0.141 -0.216,0.211 -0.358,0.157 -0.138,-0.052 -0.212,-0.201 -0.169,-0.342 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
-   <circle class="fil8 str3" cx="517.796" cy="177.072" r="11.224"/>
+   <circle class="fil9" cx="510.766" cy="177.072" r="19.276"/>
+   <path class="fil10" d="M510.766 159.179c8.074,0 14.899,5.348 17.125,12.694 0.043,0.141 -0.03,0.29 -0.168,0.342 -0.142,0.054 -0.301,-0.015 -0.358,-0.156 -2.65,-6.567 -9.083,-11.201 -16.599,-11.201 -7.517,0 -13.952,4.636 -16.6,11.204 -0.057,0.141 -0.216,0.211 -0.358,0.158 -0.138,-0.053 -0.212,-0.202 -0.169,-0.343 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
+   <circle class="fil11 str3" cx="510.766" cy="177.072" r="11.224"/>
   </g>
  </g>
 </svg>

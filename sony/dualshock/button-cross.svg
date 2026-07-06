@@ -4,20 +4,20 @@
  <defs>
   <style type="text/css">
     .str2 {stroke:#72A7DA;stroke-width:2}
-    .fil8 {fill:none}
-    .fil6 {fill:white;fill-opacity:0.5}
-    .fil7 {fill:url(#id0)}
+    .fil11 {fill:none}
+    .fil10 {fill:white;fill-opacity:0.5}
+    .fil9 {fill:url(#id2)}
   </style>
-  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="25%">
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="25%">
    <stop offset="0" style="stop-opacity:1; stop-color:#2C2C2C"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#444444"/>
   </linearGradient>
  </defs>
  <g>
   <g id="button-cross">
-   <circle class="fil7" cx="472.96" cy="221.906" r="19.276"/>
-   <path class="fil6" d="M472.96 204.013c8.074,0 14.899,5.348 17.126,12.694 0.042,0.142 -0.031,0.291 -0.169,0.343 -0.142,0.054 -0.301,-0.016 -0.358,-0.157 -2.65,-6.567 -9.083,-11.201 -16.599,-11.201 -7.517,0 -13.952,4.636 -16.6,11.205 -0.057,0.14 -0.216,0.211 -0.358,0.157 -0.138,-0.052 -0.211,-0.202 -0.169,-0.343 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
-   <path class="fil8 str2" d="M463.339 212.286l19.242 19.241m-19.242 0l19.242 -19.241"/>
+   <circle class="fil9" cx="465.93" cy="221.907" r="19.276"/>
+   <path class="fil10" d="M465.93 204.014c8.074,0 14.899,5.347 17.126,12.694 0.042,0.141 -0.031,0.29 -0.169,0.342 -0.142,0.054 -0.301,-0.016 -0.358,-0.157 -2.65,-6.567 -9.083,-11.2 -16.599,-11.2 -7.517,0 -13.952,4.636 -16.6,11.204 -0.057,0.141 -0.216,0.211 -0.358,0.157 -0.138,-0.052 -0.211,-0.201 -0.169,-0.342 2.226,-7.348 9.052,-12.698 17.127,-12.698z"/>
+   <path class="fil11 str2" d="M456.309 212.286l19.242 19.242m-19.242 0l19.242 -19.242"/>
   </g>
  </g>
 </svg>
