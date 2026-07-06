@@ -49,6 +49,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [**Sony**](#sony)
   - PlayStation: [grey](#playstation-grey), [black](#playstation-black)
   - DualShock: [grey](#dualshock-grey-%EF%B8%8F), [white](#dualshock-white-%EF%B8%8F)
+  - DualShock: [grey](#dualshock-black-%EF%B8%8F), [white](#dualshock-silver-%EF%B8%8F), [white](#dualshock-pink-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -321,6 +322,27 @@ With buttons X and Y
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-white.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock-white.css)
+
+### DualShock 2 (black) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock2/black-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-black.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-black.css)
+
+### DualShock 2 (silver) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock2/silver-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-silver.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-silver.css)
+
+### DualShock 2 (pink) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock2/pink-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-pink.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-pink.css)
 
 
 ## Famiclones
