@@ -49,7 +49,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [**Sony**](#sony)
   - PlayStation: [grey](#playstation-grey), [black](#playstation-black)
   - DualShock: [grey](#dualshock-grey-%EF%B8%8F), [white](#dualshock-white-%EF%B8%8F)
-  - DualShock 2: [black](#dualshock-black-%EF%B8%8F), [silver](#dualshock-silver-%EF%B8%8F), [pink](#dualshock-pink-%EF%B8%8F)
+  - DualShock 2: [black](#dualshock-2-black-%EF%B8%8F), [silver](#dualshock-2-silver-%EF%B8%8F), [pink](#dualshock-2-pink-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
