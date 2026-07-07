@@ -123,11 +123,11 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#FF579D"/>
   </linearGradient>
   <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="288.482" y1="277.907" x2="305.49" y2="277.907">
-   <stop offset="0" style="stop-opacity:1; stop-color:#E00000"/>
-   <stop offset="0.1" style="stop-opacity:1; stop-color:#FF1818"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF5050"/>
-   <stop offset="0.9" style="stop-opacity:1; stop-color:#FF1818"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#E00000"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#E06000"/>
+   <stop offset="0.1" style="stop-opacity:1; stop-color:#E87000"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF8000"/>
+   <stop offset="0.9" style="stop-opacity:1; stop-color:#E87000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E06000"/>
   </linearGradient>
   <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="128.043" y1="193.47" x2="128.043" y2="158.095">
    <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>

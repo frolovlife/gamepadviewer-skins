@@ -129,11 +129,11 @@
   <linearGradient id="id26" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="379.251" y1="345.372" x2="379.251" y2="228.358">
   </linearGradient>
   <linearGradient id="id27" gradientUnits="userSpaceOnUse" x1="288.482" y1="277.907" x2="305.49" y2="277.907">
-   <stop offset="0" style="stop-opacity:1; stop-color:#E00000"/>
-   <stop offset="0.1" style="stop-opacity:1; stop-color:#FF1818"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF5050"/>
-   <stop offset="0.9" style="stop-opacity:1; stop-color:#FF1818"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#E00000"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#E06000"/>
+   <stop offset="0.1" style="stop-opacity:1; stop-color:#E87000"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#FF8000"/>
+   <stop offset="0.9" style="stop-opacity:1; stop-color:#E87000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E06000"/>
   </linearGradient>
  </defs>
  <g>
