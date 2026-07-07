@@ -3,17 +3,13 @@
 <svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
-    .str0 {stroke:#58BA62;stroke-width:2}
-    .str2 {stroke:#72A7DA;stroke-width:2}
-    .str3 {stroke:#E55143;stroke-width:2}
-    .str1 {stroke:#E9BD48;stroke-width:2}
     .fil18 {fill:#1A1A1A}
     .fil24 {fill:#484848}
     .fil22 {fill:#4D4D4D}
     .fil28 {fill:#525252}
     .fil16 {fill:gray}
     .fil1 {fill:#CCCCCC}
-    .fil7 {fill:#D8D8D8}
+    .fil7 {fill:#E5E5E5}
     .fil6 {fill:#E0E0E0}
     .fil4 {fill:#F7F7F7}
     .fil20 {fill:black;fill-opacity:0.5}
