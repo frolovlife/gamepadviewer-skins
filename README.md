@@ -50,7 +50,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - PlayStation: [grey](#playstation-grey), [black](#playstation-black)
   - DualShock: [grey](#dualshock-grey-%EF%B8%8F), [white](#dualshock-white-%EF%B8%8F)
   - DualShock 2: [black](#dualshock-2-black-%EF%B8%8F), [silver](#dualshock-2-silver-%EF%B8%8F), [pink](#dualshock-2-pink-%EF%B8%8F)
-  - DualShock 3: [black](#dualshock-3-black-%EF%B8%8F), [white](#dualshock-3-white-%EF%B8%8F), [silver](#dualshock-3-silver-%EF%B8%8F)
+  - DualShock 3: [black](#dualshock-3-black-%EF%B8%8F), [white](#dualshock-3-white-%EF%B8%8F), [blue](#dualshock-3-blue-%EF%B8%8F), [silver](#dualshock-3-silver-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -358,6 +358,13 @@ With buttons X and Y
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-white.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-white.css)
+
+### DualShock 3 (blue) ✔️
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/blue-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-blue.css)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-blue.css)
 
 ### DualShock 3 (silver) ✔️
 
