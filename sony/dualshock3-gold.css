@@ -1,9 +1,9 @@
-/*BEGIN Sony DualShock 3 Satin Silver Controller Styling*/
+/*BEGIN Sony DualShock 3 Metallic Gold Controller Styling*/
 
 /* Main */
 .controller.custom {
   position: absolute;
-  background-image: url(dualshock3/silver-base.svg);
+  background-image: url(dualshock3/gold-base.svg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@
 }
 
 .controller.custom:not(.disconnected) {
-  background-image: url(dualshock3/silver-base.svg);
+  background-image: url(dualshock3/gold-base.svg);
 }
 
 .custom.disconnected {
