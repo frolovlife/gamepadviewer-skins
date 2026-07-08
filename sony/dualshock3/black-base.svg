@@ -90,12 +90,12 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#B3B3B3"/>
   </linearGradient>
   <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="588.783" y1="262.523" x2="395.569" y2="339.91">
-   <stop offset="0" style="stop-opacity:1; stop-color:#121212"/>
-   <stop offset="0.15" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#171717"/>
+   <stop offset="0.15" style="stop-opacity:1; stop-color:#292929"/>
    <stop offset="0.37" style="stop-opacity:1; stop-color:#2E2E2E"/>
-   <stop offset="0.55" style="stop-opacity:1; stop-color:#242424"/>
-   <stop offset="0.81" style="stop-opacity:1; stop-color:#121212"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#0D0D0D"/>
+   <stop offset="0.55" style="stop-opacity:1; stop-color:#292929"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#171717"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#121212"/>
   </linearGradient>
   <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="128.043" y1="248.048" x2="128.043" y2="212.661">
    <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
