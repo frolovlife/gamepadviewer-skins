@@ -50,7 +50,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - PlayStation: [grey](#playstation-grey), [black](#playstation-black)
   - DualShock: [grey](#dualshock-grey-%EF%B8%8F), [white](#dualshock-white-%EF%B8%8F)
   - DualShock 2: [black](#dualshock-2-black-%EF%B8%8F), [silver](#dualshock-2-silver-%EF%B8%8F), [pink](#dualshock-2-pink-%EF%B8%8F)
-  - DualShock 3: [black](#dualshock-3-black-%EF%B8%8F), [white](#dualshock-3-white-%EF%B8%8F), [blue](#dualshock-3-blue-%EF%B8%8F), [red](#dualshock-3-red-%EF%B8%8F), [silver](#dualshock-3-silver-%EF%B8%8F)
+  - DualShock 3: [Jet Black](#dualshock-3-jet-black-%EF%B8%8F), [Ceramic White](#dualshock-3-ceramic-white-%EF%B8%8F), [Blue](#dualshock-3-blue-%EF%B8%8F), [Deep Red](#dualshock-3-deep-red-%EF%B8%8F), [Satin Silver](#dualshock-3-satin-silver-%EF%B8%8F)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -345,35 +345,35 @@ With buttons X and Y
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-pink.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock2-pink.css)
 
-### DualShock 3 (black) ✔️
+### DualShock 3 (Jet Black) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/black-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-black.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-black.css)
 
-### DualShock 3 (white) ✔️
+### DualShock 3 (Ceramic White) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/white-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-white.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-white.css)
 
-### DualShock 3 (blue) ✔️
+### DualShock 3 (Blue) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/blue-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-blue.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-blue.css)
 
-### DualShock 3 (red) ✔️
+### DualShock 3 (Deep Red) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/red-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-red.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-red.css)
 
-### DualShock 3 (silver) ✔️
+### DualShock 3 (Satin Silver) ✔️
 
 <p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/dualshock3/silver-preview.svg" width="40%"></p>
 
