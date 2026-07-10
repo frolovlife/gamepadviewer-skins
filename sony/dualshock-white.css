@@ -38,7 +38,7 @@
 }
 
 .custom .bumper.left {
-  background-image: url(dualshock/shift-l1.svg);
+  background-image: url(dualshock/psone-shift-l1.svg);
 }
 
 .custom .bumper.left.pressed {
@@ -46,7 +46,7 @@
 }
 
 .custom .bumper.right {
-  background-image: url(dualshock/shift-l1.svg);
+  background-image: url(dualshock/psone-shift-l1.svg);
   transform: rotateY(180deg);
 }
 
@@ -68,7 +68,7 @@
 }
 
 .custom .trigger-button.left {
-  background-image: url(dualshock/shift-l2.svg);
+  background-image: url(dualshock/psone-shift-l2.svg);
 }
 
 .custom .trigger-button.left.pressed {
@@ -76,7 +76,7 @@
 }
 
 .custom .trigger-button.right {
-  background-image: url(dualshock/shift-r2.svg);
+  background-image: url(dualshock/psone-shift-r2.svg);
 }
 
 .custom .trigger-button.right.pressed {
@@ -97,7 +97,7 @@
 }
 
 .custom .start {
-  background-image: url(dualshock/button-start.svg);
+  background-image: url(dualshock/psone-button-start.svg);
 }
 
 .custom .start.pressed {
@@ -105,7 +105,7 @@
 }
 
 .custom .back {
-  background-image: url(dualshock/button-select.svg);
+  background-image: url(dualshock/psone-button-select.svg);
 }
 
 .custom .back.pressed {
@@ -126,7 +126,7 @@
 }
 
 .custom .a {
-  background-image: url(dualshock/button-cross.svg);
+  background-image: url(dualshock/psone-button-cross.svg);
 }
 
 .custom .a.pressed {
@@ -134,7 +134,7 @@
 }
 
 .custom .b {
-  background-image: url(dualshock/button-circle.svg);
+  background-image: url(dualshock/psone-button-circle.svg);
 }
 
 .custom .b.pressed {
@@ -142,7 +142,7 @@
 }
 
 .custom .x {
-  background-image: url(dualshock/button-square.svg);
+  background-image: url(dualshock/psone-button-square.svg);
 }
 
 .custom .x.pressed {
@@ -150,7 +150,7 @@
 }
 
 .custom .y {
-  background-image: url(dualshock/button-triangle.svg);
+  background-image: url(dualshock/psone-button-triangle.svg);
 }
 
 .custom .y.pressed {
@@ -219,7 +219,7 @@
 }
 
 .custom .stick.left {
-  background: url(dualshock/stick-left.svg);
+  background: url(dualshock/psone-stick-left.svg);
 }
 
 .custom .stick.left.pressed {
@@ -227,7 +227,7 @@
 }
 
 .custom .stick.right {
-  background: url(dualshock/stick-left.svg);
+  background: url(dualshock/psone-stick-left.svg);
   transform: rotateY(180deg);
   top: calc(0%);
   left: calc(100% - 75px);
