@@ -1,0 +1,248 @@
+/*BEGIN Sony DualShock 2 Ceramic White Controller Styling*/
+
+/* Main */
+.controller.custom {
+  position: absolute;
+  background-image: url(dualshock2/white-base.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 594px;
+  height: 420px;
+  transform: scale(1.07744) translate(-50%, -50%);
+}
+
+.controller.custom:not(.disconnected) {
+  background-image: url(dualshock2/white-base.svg);
+}
+
+.custom.disconnected {
+  background-image: url(dualshock2/disconnected.svg);
+}
+
+.custom.disconnected div {
+  display: none;
+}
+
+/* Player Indicator */
+.custom .quadrant {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+/* Shifts */
+.custom .bumpers {
+}
+
+.custom .bumper {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .bumper.left {
+  background-image: url(dualshock2/shift-l1.svg);
+}
+
+.custom .bumper.left.pressed {
+  background-image: url(dualshock2/pressed-shift-l1.svg);
+}
+
+.custom .bumper.right {
+  background-image: url(dualshock2/shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .bumper.right.pressed {
+  background-image: url(dualshock2/pressed-shift-l1.svg);
+  transform: rotateY(180deg);
+}
+
+.custom .triggers {
+}
+
+.custom .trigger-button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .trigger-button.left {
+  background-image: url(dualshock2/shift-l2.svg);
+}
+
+.custom .trigger-button.left.pressed {
+  background-image: url(dualshock2/pressed-shift-l2.svg);
+}
+
+.custom .trigger-button.right {
+  background-image: url(dualshock2/shift-r2.svg);
+}
+
+.custom .trigger-button.right.pressed {
+  background-image: url(dualshock2/pressed-shift-r2.svg);
+}
+
+/* Start and Select */
+.custom .arrows {
+}
+
+.custom .start, .custom .back {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .start {
+  background-image: url(dualshock2/button-start.svg);
+}
+
+.custom .start.pressed {
+  background-image: url(dualshock2/pressed-button-start.svg);
+}
+
+.custom .back {
+  background-image: url(dualshock2/button-select.svg);
+}
+
+.custom .back.pressed {
+  background-image: url(dualshock2/pressed-button-select.svg);
+}
+
+/* A, B, X and Y  */
+.custom .abxy {
+}
+
+.custom .button {
+  position: absolute;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .a {
+  background-image: url(dualshock2/button-cross.svg);
+}
+
+.custom .a.pressed {
+  background-image: url(dualshock2/pressed-button-cross.svg);
+}
+
+.custom .b {
+  background-image: url(dualshock2/button-circle.svg);
+}
+
+.custom .b.pressed {
+  background-image: url(dualshock2/pressed-button-circle.svg);
+}
+
+.custom .x {
+  background-image: url(dualshock2/button-square.svg);
+}
+
+.custom .x.pressed {
+  background-image: url(dualshock2/pressed-button-square.svg);
+}
+
+.custom .y {
+  background-image: url(dualshock2/button-triangle.svg);
+}
+
+.custom .y.pressed {
+  background-image: url(dualshock2/pressed-button-triangle.svg);
+}
+
+/* Dpad */
+.custom .dpad {
+}
+
+.custom .dpad::before {
+  content: '';
+}
+
+.custom .face {
+  position: absolute;
+  background-image: url(dualshock2/dpad.svg);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+.custom .face.up {
+}
+
+.custom .face.up.pressed {
+  background-image: url(dualshock2/pressed-dpad-up.svg);
+}
+
+.custom .face.down {
+}
+
+.custom .face.down.pressed {
+  background-image: url(dualshock2/pressed-dpad-down.svg);
+}
+
+.custom .face.left {
+}
+
+.custom .face.left.pressed {
+  background-image: url(dualshock2/pressed-dpad-left.svg);
+}
+
+.custom .face.right {
+}
+
+.custom .face.right.pressed {
+  background-image: url(dualshock2/pressed-dpad-right.svg);
+}
+
+/* Sticks */
+.custom .sticks {
+  position: absolute;
+  width: 248px;
+  height: 76px;
+  top: 249px;
+  left: 173px;
+}
+
+.custom .stick {
+  position: absolute;
+  height: 76px;
+  width: 77px;
+}
+
+.custom .stick.left {
+  background: url(dualshock2/stick-left.svg);
+}
+
+.custom .stick.left.pressed {
+  background: url(dualshock2/pressed-stick-left.svg);
+}
+
+.custom .stick.right {
+  background: url(dualshock2/stick-left.svg);
+  transform: rotateY(180deg);
+  top: calc(0%);
+  left: calc(100% - 75px);
+}
+
+.custom .stick.right.pressed {
+  background: url(dualshock2/pressed-stick-left.svg);
+}
