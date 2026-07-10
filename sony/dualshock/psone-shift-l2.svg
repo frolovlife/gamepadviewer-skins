@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 594 394" width="594px" height="394px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil2 {fill:#424157}
+    .fil1 {fill:url(#id3)}
+    .fil0 {fill:url(#id7)}
+  </style>
+  <linearGradient id="id3" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4E4C66"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#595775"/>
+   <stop offset="0.5" style="stop-opacity:1; stop-color:#5E5C7A"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#595775"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4E4C66"/>
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="objectBoundingBox" x1="24.2189%" y1="0%" x2="24.2189%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#383749"/>
+   <stop offset="0.05" style="stop-opacity:1; stop-color:#383749"/>
+   <stop offset="0.1" style="stop-opacity:1; stop-color:#646284"/>
+   <stop offset="0.89" style="stop-opacity:1; stop-color:#646284"/>
+   <stop offset="0.95" style="stop-opacity:1; stop-color:#8B89A9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8B89A9"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <g id="L2">
+   <path class="fil0" d="M97.796 0.731l60.473 0c2.081,0 3.779,1.698 3.779,3.78l0 26.457c0,2.081 -1.698,3.779 -3.779,3.779l-60.473 0c-2.082,0 -3.779,-1.698 -3.779,-3.779l0 -26.457c0,-2.082 1.697,-3.78 3.779,-3.78z"/>
+   <path class="fil1" d="M158.269 2.621c1.04,0 1.889,0.849 1.889,1.89l0 26.457c0,1.04 -0.849,1.889 -1.889,1.889 -20.158,0 -40.316,0 -60.473,0 -1.041,0 -1.89,-0.849 -1.89,-1.889l0 -26.457c0,-1.041 0.849,-1.89 1.89,-1.89 20.157,0 40.315,0 60.473,0z"/>
+   <path class="fil2" d="M132.762 10.944l-9.457 0 0 1.979 6.178 0 0 0.015 -3.13 2.785c-1.929,1.689 -2.986,2.977 -2.986,4.829 0,2.526 1.938,4.187 4.642,4.187 2.902,0 4.763,-1.913 4.763,-4.788l-2.234 0c0,1.742 -0.946,2.809 -2.529,2.809 -1.466,0 -2.383,-0.892 -2.383,-2.317 0,-1.323 0.836,-2.135 2.208,-3.36l4.928 -4.315 0 -1.824z"/>
+  </g>
+ </g>
+</svg>
