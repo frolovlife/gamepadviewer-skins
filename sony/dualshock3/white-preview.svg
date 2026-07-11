@@ -24,8 +24,8 @@
     .fil38 {fill:black;fill-opacity:0.2}
     .fil23 {fill:black;fill-opacity:0.5}
     .fil46 {fill:white;fill-opacity:0.5}
-    .fil34 {fill:black;fill-opacity:0.6}
-    .fil33 {fill:white;fill-opacity:0.7}
+    .fil34 {fill:black;fill-opacity:0.4}
+    .fil33 {fill:white;fill-opacity:0.8}
     .fil48 {fill:url(#id0)}
     .fil51 {fill:url(#id1)}
     .fil11 {fill:url(#id2)}
@@ -130,8 +130,8 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#B3B3B3"/>
   </linearGradient>
   <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="296.986" y1="218.568" x2="296.986" y2="250.316">
-   <stop offset="0" style="stop-opacity:1; stop-color:#595959"/>
-   <stop offset="0.4" style="stop-opacity:1; stop-color:#A6A6A6"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:gray"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#BFBFBF"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#E6E6E6"/>
   </linearGradient>
   <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="211.763" y1="326.474" x2="211.763" y2="247.104">
