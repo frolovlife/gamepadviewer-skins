@@ -46,11 +46,11 @@
 }
 
 .custom .bumper.right {
-  background-image: url(ascii-pad-ft2/black-shift-r1.svg);
+  background-image: url(ascii-pad-ft2/black-button-r1.svg);
 }
 
 .custom .bumper.right.pressed {
-  background-image: url(ascii-pad-ft2/pressed-shift-r1.svg);
+  background-image: url(ascii-pad-ft2/pressed-button-r1.svg);
 }
 
 .custom .triggers {
