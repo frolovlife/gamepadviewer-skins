@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 588 370" width="588px" height="370px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .str0 {stroke:white;stroke-width:3;stroke-opacity:0.5}
+    .fil0 {fill:red}
+    .fil2 {fill:none}
+  </style>
+ </defs>
+ <g>
+  <g id="pressed-button-square">
+   <circle class="fil0" cx="366.144" cy="179.526" r="25.89"/>
+   <polygon class="fil2 str0" points="353.293,166.676 378.994,166.676 378.994,192.377 353.293,192.377 "/>
+  </g>
+ </g>
+</svg>
