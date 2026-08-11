@@ -51,6 +51,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - DualShock: [Light Gray](#dualshock-light-gray-%EF%B8%8F), [White](#dualshock-white-%EF%B8%8F)
   - DualShock 2: [Charcoal Black](#dualshock-2-charcoal-black-%EF%B8%8F), [Satin Silver](#dualshock-2-satin-silver-%EF%B8%8F), [Ceramic White](#dualshock-2-ceramic-white-%EF%B8%8F), [Candy Pink](#dualshock-2-candy-pink-%EF%B8%8F)
   - DualShock 3: [Jet Black](#dualshock-3-jet-black-%EF%B8%8F), [Ceramic White](#dualshock-3-ceramic-white-%EF%B8%8F), [Blue](#dualshock-3-blue-%EF%B8%8F), [Deep Red](#dualshock-3-deep-red-%EF%B8%8F), [Satin Silver](#dualshock-3-satin-silver-%EF%B8%8F), [Metallic Gold](#dualshock-3-metallic-gold-%EF%B8%8F), [Final Fantasy XIII Deluxe Pack Lightning](#dualshock-3-final-fantasy-xiii-deluxe-pack-lightning-%EF%B8%8F)
+  - ASCII Pad FT2: [black](#ascii-pad-ft2-black), [red](#ascii-pad-ft2-red)
 - [**Famiclones**](#famiclones)
   - Dendy: [Classic](#dendy-classic), [Junior (var. 1)](#dendy-junior-var-1), [Junior (var. 2)](#dendy-junior-var-2), [Junior (var. 3)](#dendy-junior-var-3-%EF%B8%8F)
 - [**3DO**](#3do)
@@ -400,6 +401,22 @@ With buttons X and Y
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-ffxiii.css)
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/dualshock3-ffxiii.css)
+
+### ASCII Pad FT2 (black)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/ascii-pad-ft2/black-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-black.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-black.css)
+
+### ASCII Pad FT2 (red)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sony/ascii-pad-ft2/red-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-red.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-red.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sony/ascii-pad-red.css)
 
 
 ## Famiclones
