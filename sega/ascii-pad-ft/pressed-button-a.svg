@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xml:space="preserve" viewBox="0 0 588 370" width="588px" height="370px" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+    .fil0 {fill:red}
+    .fil1 {fill:black;fill-opacity:0.2}
+  </style>
+ </defs>
+ <g>
+  <g id="pressed-button-a">
+   <circle class="fil0" cx="397.525" cy="240.485" r="25.89"/>
+   <path class="fil1" d="M400.018 242.267l-5.04 0 2.534 -5.654 2.506 5.654zm-0.346 -9.387l-4.294 0 -7.227 15.211 4.267 0 1.547 -3.392 7.066 0 1.493 3.392 4.374 0 -7.226 -15.211z"/>
+  </g>
+ </g>
+</svg>
