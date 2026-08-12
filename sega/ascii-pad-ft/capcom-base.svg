@@ -24,7 +24,7 @@
     .fil16 {fill:url(#id13)}
     .fil3 {fill:url(#id15)}
     .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.2)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.3))}
-    .shd1 {filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.5)) drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.4))}
+    .shd1 {filter: drop-shadow(0px 7px 2px rgba(0, 0, 0, 0.5)) drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.4))}
   </style>
   <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="138.901" y1="241.753" x2="138.901" y2="141.828">
    <stop offset="0" style="stop-opacity:1; stop-color:#E9E939"/>
@@ -52,7 +52,7 @@
   <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="138.901" y1="202.073" x2="138.901" y2="183.565">
    <stop offset="0" style="stop-opacity:1; stop-color:#FFFFCD"/>
    <stop offset="0.4" style="stop-opacity:1; stop-color:#E1E119"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#AEAE14"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A0A012"/>
   </linearGradient>
   <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="138.901" y1="241.754" x2="138.901" y2="141.827">
    <stop offset="0" style="stop-opacity:1; stop-color:#EBEB47"/>

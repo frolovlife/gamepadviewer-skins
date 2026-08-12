@@ -4,12 +4,14 @@
  <defs>
   <style type="text/css">
     .str0 {stroke:#969696;stroke-width:2;stroke-opacity:0.7}
-    .fil2 {fill:none}
-    .fil3 {fill:black;fill-opacity:0.15}
-    .fil1 {fill:url(#id0)}
+    .fil4 {fill:none}
+    .fil2 {fill:black;fill-opacity:0.03}
+    .fil3 {fill:url(#id0)}
     .fil0 {fill:url(#id1)}
+    .fil1 {fill:url(#id2)}
+    .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.2)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.4))}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="397.524" y1="264.485" x2="397.524" y2="216.485">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="397.525" y1="264.485" x2="397.525" y2="216.484">
    <stop offset="0" style="stop-opacity:1; stop-color:#A3A3A3"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:#969696"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#8F8F8F"/>
@@ -19,13 +21,17 @@
    <stop offset="0.4" style="stop-opacity:1; stop-color:#969696"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#737373"/>
   </linearGradient>
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50%" y1="120.555%" x2="50%" y2="0%">
+  </linearGradient>
  </defs>
  <g>
   <g id="button-a">
    <circle class="fil0" cx="397.525" cy="240.485" r="25.89"/>
-   <circle class="fil1" cx="397.524" cy="240.485" r="24"/>
-   <path class="fil2 str0" d="M397.524 216.485c13.255,0 24,10.745 24,24 0,13.255 -10.745,24.001 -24,24.001 -13.254,0 -24,-10.746 -24,-24.001 0,-13.255 10.746,-24 24,-24z"/>
-   <path class="fil3" d="M400.018 242.267l-5.04 0 2.534 -5.654 2.506 5.654zm-0.346 -9.387l-4.294 0 -7.227 15.211 4.267 0 1.547 -3.392 7.066 0 1.493 3.392 4.374 0 -7.226 -15.211z"/>
+   <path class="fil1" d="M397.525 223.477c9.393,0 17.008,7.615 17.008,17.008 0,9.393 -7.615,17.008 -17.008,17.008 -9.393,0 -17.008,-7.615 -17.008,-17.008 0,-9.393 7.615,-17.008 17.008,-17.008z"/>
+   <path id="shadow-a" class="fil1 shd0" d="M397.525 223.477c9.393,0 17.008,7.615 17.008,17.008 0,9.393 -7.615,17.008 -17.008,17.008 -9.393,0 -17.008,-7.615 -17.008,-17.008 0,-9.393 7.615,-17.008 17.008,-17.008zm2.493 18.79l-5.04 0 2.534 -5.654 2.506 5.654zm-0.346 -9.387l-4.294 0 -7.227 15.211 4.267 0 1.547 -3.392 7.066 0 1.493 3.392 4.374 0 -7.226 -15.211z"/>
+   <path class="fil2" d="M400.018 242.267l-5.04 0 2.534 -5.654 2.506 5.654zm-0.346 -9.387l-4.294 0 -7.227 15.211 4.267 0 1.547 -3.392 7.066 0 1.493 3.392 4.374 0 -7.226 -15.211z"/>
+   <path class="fil3" d="M397.525 216.484c13.255,0 24,10.746 24,24 0,13.256 -10.745,24.001 -24,24.001 -13.255,0 -24,-10.745 -24,-24.001 0,-13.254 10.745,-24 24,-24zm0 8.882c8.35,0 15.118,6.769 15.118,15.118 0,8.35 -6.768,15.119 -15.118,15.119 -8.35,0 -15.118,-6.769 -15.118,-15.119 0,-8.349 6.768,-15.118 15.118,-15.118z"/>
+   <path class="fil4 str0" d="M397.524 216.485c13.255,0 24,10.745 24,24 0,13.255 -10.745,24.001 -24,24.001 -13.254,0 -24,-10.746 -24,-24.001 0,-13.255 10.746,-24 24,-24z"/>
   </g>
  </g>
 </svg>
