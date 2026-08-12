@@ -4,37 +4,29 @@
  <defs>
   <style type="text/css">
     .str0 {stroke:#969696;stroke-width:2;stroke-opacity:0.7}
-    .str1 {stroke:#40E2A0;stroke-width:3}
-    .str4 {stroke:#7CB2E8;stroke-width:3}
-    .str3 {stroke:#FF6666;stroke-width:3}
-    .str2 {stroke:#FF69F8;stroke-width:3}
-    .fil5 {fill:none}
+    .str1 {stroke:#FF69F8;stroke-width:3}
     .fil3 {fill:none}
-    .fil7 {fill:url(#id0)}
-    .fil2 {fill:url(#id2)}
-    .fil1 {fill:url(#id3)}
+    .fil2 {fill:none}
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
   </style>
-  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="2.99286e-05%">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="366.143" y1="203.526" x2="366.143" y2="155.526">
    <stop offset="0" style="stop-opacity:1; stop-color:#A3A3A3"/>
-   <stop offset="0.5" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#969696"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#8F8F8F"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="515.835" y1="154.719" x2="515.835" y2="206.499">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="366.143" y1="153.636" x2="366.143" y2="205.416">
    <stop offset="0" style="stop-opacity:1; stop-color:#B8B8B8"/>
    <stop offset="0.4" style="stop-opacity:1; stop-color:#969696"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#737373"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50" y1="100%" x2="50%" y2="2.99286e-05%">
-  </linearGradient>
-  <linearGradient id="id3" gradientUnits="objectBoundingBox" xlink:href="#id1" x1="50%" y1="0.000278092%" x2="50%" y2="100%">
-  </linearGradient>
  </defs>
  <g>
   <g id="button-square">
-   <circle class="fil1" cx="366.144" cy="179.526" r="25.89"/>
-   <circle class="fil2" cx="366.143" cy="179.526" r="24"/>
-   <path class="fil3 str0" d="M366.143 155.526c13.255,0 24,10.745 24,24 0,13.255 -10.745,24.001 -24,24.001 -13.254,0 -24,-10.746 -24,-24.001 0,-13.255 10.746,-24 24,-24z"/>
-   <rect class="fil5 str2" x="353.293" y="166.676" width="25.701" height="25.701"/>
+   <circle class="fil0" cx="366.144" cy="179.526" r="25.89"/>
+   <circle class="fil1" cx="366.143" cy="179.526" r="24"/>
+   <path class="fil2 str0" d="M366.143 155.526c13.255,0 24,10.745 24,24 0,13.255 -10.745,24.001 -24,24.001 -13.254,0 -24,-10.746 -24,-24.001 0,-13.255 10.746,-24 24,-24z"/>
+   <rect class="fil3 str1" x="353.293" y="166.676" width="25.701" height="25.701"/>
   </g>
  </g>
 </svg>
