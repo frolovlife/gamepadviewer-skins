@@ -43,6 +43,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - Sega Saturn model 2: [black](#sega-saturn-model-2-black-%EF%B8%8F), [white](#sega-saturn-model-2-white-%EF%B8%8F), [gray](#sega-saturn-model-2-gray-%EF%B8%8F)
   - Sega Saturn 3D: [black](#sega-saturn-3d-black), [white](#sega-saturn-3d-white)
   - Sega Dreamcast: [white](#sega-dreamcast-white-%EF%B8%8F), [black](#sega-dreamcast-black-%EF%B8%8F), [super black](#sega-dreamcast-super-black-%EF%B8%8F)
+  - ASCII Pad FT: [White](#ascii-pad-ft-white), [Capcom](#ascii-pad-ft-capcom), [SNK](#ascii-pad-ft-snk)
 - [**Nintendo**](#nintendo)
   - 8-bit: [Famicom](#famicom), [NES](#nes-%EF%B8%8F), [«Dogbone»](#nes-dogbone)
   - 16-bit: [Super Famicom](#super-famicom), [SNES (USA)](#snes-usa), [SNES (Europe)](#snes-europe)
@@ -220,6 +221,36 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
 - [For OBS Studio etc. (with mapping: LB to LT, RB to RT)](https://gamepadviewer.com/?p=1&soffset=10&css=https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css&map={"mapping":[{"targetType":"buttons","target":"6","disabled":false,"choiceType":"buttons","choice":"4"},{"targetType":"buttons","target":"7","disabled":false,"choiceType":"buttons","choice":"5"}]})
 - [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/dreamcast-sblack.css)
+
+### ASCII Pad FT (White)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/ascii-pad-ft/white-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-white.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-white.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"}]})
+- [For OBS Studio etc. (with mapping: L-stick to D-pad, L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-white.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-white.css)
+
+### ASCII Pad FT (Capcom)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/ascii-pad-ft/capcom-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-capcom.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-capcom.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: R2 to L2, L2 to L1, L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-capcom.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"}]})
+- [For OBS Studio etc. (with mapping: L-stick to D-pad, R2 to L2, L2 to L1, L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-capcom.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-capcom.css)
+
+### ASCII Pad FT (SNK)
+
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/ascii-pad-ft/snk-preview.svg" width="40%"></p>
+
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-snk.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-snk.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: R2 to L2, L2 to L1, L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-snk.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"}]})
+- [For OBS Studio etc. (with mapping: L-stick to D-pad, R2 to L2, L2 to L1, L1 to R1, R1 to R2)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-snk.css&map={"mapping":[{"targetType":"buttons","target":"5","disabled":false,"choiceType":"buttons","choice":"7"},{"targetType":"buttons","target":"4","disabled":false,"choiceType":"buttons","choice":"5"},{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/ascii-pad-snk.css)
 
 
 ## Nintendo
