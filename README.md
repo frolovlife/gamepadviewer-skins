@@ -117,7 +117,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 ### 8BitDo M30 (black) ✔️
 
-<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-black.svg" width="40%"></p>
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/black-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css)
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-black.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
@@ -125,7 +125,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 ### 8BitDo M30 (white) ✔️
 
-<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/preview-white.svg" width="40%"></p>
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/8bitdo/m30/white-preview.svg" width="40%"></p>
 
 - [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css)
 - [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/8bitdo/m30-white.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
