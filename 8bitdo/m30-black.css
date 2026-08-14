@@ -46,7 +46,7 @@
 }
 
 .custom .bumper.right {
-  background-image: url(m30/button-z.svg);
+  background-image: url(m30/black-button-z.svg);
 }
 
 .custom .bumper.right.pressed {
@@ -142,7 +142,7 @@
 }
 
 .custom .x {
-  background-image: url(m30/button-x.svg);
+  background-image: url(m30/black-button-x.svg);
 }
 
 .custom .x.pressed {
@@ -150,7 +150,7 @@
 }
 
 .custom .y {
-  background-image: url(m30/button-y.svg);
+  background-image: url(m30/black-button-y.svg);
 }
 
 .custom .y.pressed {
