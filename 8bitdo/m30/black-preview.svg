@@ -75,7 +75,7 @@
    <stop offset="0.4" style="stop-opacity:1; stop-color:#3D3D3D"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#2B2B2B"/>
   </linearGradient>
-  <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="120.001%" x2="50%" y2="0%">
+  <linearGradient id="id5" gradientUnits="objectBoundingBox" x1="50%" y1="120%" x2="50%" y2="-20%">
    <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:gray"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
@@ -99,7 +99,7 @@
   </linearGradient>
   <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="486.933" y1="152.759" x2="486.933" y2="111.941">
   </linearGradient>
-  <linearGradient id="id12" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50.0004%" y1="120%" x2="50.0004%" y2="0%">
+  <linearGradient id="id12" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50%" y1="120%" x2="50%" y2="-20%">
   </linearGradient>
   <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="486.933" y1="152.759" x2="486.933" y2="111.941">
   </linearGradient>
@@ -111,7 +111,7 @@
   </linearGradient>
   <linearGradient id="id16" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="429.401" y1="169.327" x2="429.401" y2="128.508">
   </linearGradient>
-  <linearGradient id="id17" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50.0001%" y1="120%" x2="50.0001%" y2="0%">
+  <linearGradient id="id17" gradientUnits="objectBoundingBox" xlink:href="#id5" x1="50%" y1="120%" x2="50%" y2="-20%">
   </linearGradient>
   <linearGradient id="id18" gradientUnits="userSpaceOnUse" xlink:href="#id4" x1="429.401" y1="169.327" x2="429.401" y2="128.508">
   </linearGradient>
