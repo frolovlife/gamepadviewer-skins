@@ -14,7 +14,7 @@
    <stop offset="0.6" style="stop-opacity:1; stop-color:#9A9A9A"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#B1B1B1"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50%" y1="120%" x2="50%" y2="0%">
+  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="50%" y1="120%" x2="50%" y2="-20%">
   </linearGradient>
   <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="358.247" y1="134.875" x2="358.247" y2="100.104">
   </linearGradient>

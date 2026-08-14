@@ -9,7 +9,7 @@
     .fil0 {fill:url(#id2);fill-opacity:0.7}
     .shd0 {filter: drop-shadow(0px 1px .6px rgba(0, 0, 0, 0.3)) drop-shadow(0px 0px .6px rgba(0, 0, 0, 0.5))}
   </style>
-  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="49.9998%" y1="120%" x2="49.9998%" y2="0%">
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="120%" x2="50%" y2="-20%">
    <stop offset="0" style="stop-opacity:1; stop-color:#676767"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:#9A9A9A"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#B1B1B1"/>
