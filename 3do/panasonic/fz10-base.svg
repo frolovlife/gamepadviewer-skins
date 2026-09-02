@@ -37,8 +37,6 @@
     .fil28 {fill:url(#id13)}
     .fil8 {fill:url(#id14)}
     .fil30 {fill:url(#id15)}
-    .fil40 {fill:#3A3A3A}
-    .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.3)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.5))}
     .shd1 {filter: drop-shadow(0px -1px .5px rgba(0, 0, 0, 0.3)) drop-shadow(0px 1px .5px rgba(255, 255, 255, 0.2))}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="123.209" y1="160.574" x2="123.209" y2="77.861">
