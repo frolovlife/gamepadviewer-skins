@@ -4,6 +4,10 @@
 
 These are custom skins of various controllers (retro and some new) for [GamepadViewer](https://gamepadviewer.com/). You can use them to display the buttons that are being pressed on your stream as an overlay.
 
+All skin images have passed SVG 1.1 markup validation.
+
+<a href="https://validator.w3.org"><img src="https://www.w3.org/Icons/valid-svg11" alt="Valid SVG 1.1" height="31" width="88" /></a>
+
 > [!IMPORTANT]
 > GamepadViewer works with XInput controllers. Work with DirectInput controllers is not guaranteed.
 >
