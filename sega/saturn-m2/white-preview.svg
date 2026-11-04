@@ -43,6 +43,7 @@
     .fil21 {fill:url(#id22);fill-opacity:0.6}
     .fil31 {fill:url(#id23);fill-opacity:0.6}
     .shd0 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.2)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.2))}
+    .shd1 {filter: drop-shadow(0px 1px .5px rgba(0, 0, 0, 0.15)) drop-shadow(0px 0px .5px rgba(0, 0, 0, 0.1))}
   </style>
   <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="50%" y1="100%" x2="50%" y2="0%">
    <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
