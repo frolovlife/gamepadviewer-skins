@@ -143,7 +143,7 @@
    <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
   </linearGradient>
   <filter id="Shell-Blur" x="-20%" y="-20%" width="140%" height="140%">
-   <feGaussianBlur stdDeviation="1.2" />
+   <feGaussianBlur stdDeviation="1.7" />
   </filter>
   <filter id="Dpad-Blur" x="-20%" y="-20%" width="140%" height="140%">
    <feGaussianBlur stdDeviation="0.5" />
