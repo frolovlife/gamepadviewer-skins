@@ -43,7 +43,7 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
   - 8BitDo Pro 3: [grey](#8bitdo-pro-3-grey-%EF%B8%8F), [classic](#8bitdo-pro-3-classic-%EF%B8%8F), [purple](#8bitdo-pro-3-purple-%EF%B8%8F), [orange](#8bitdo-pro-3-orange-%EF%B8%8F)
   - 8BitDo M30: [black](#8bitdo-m30-black-%EF%B8%8F), [white](#8bitdo-m30-white-%EF%B8%8F)
 - [**Sega**](#sega)
-  - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2-japanasia), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
+  - Sega Mega Drive 2 / Genesis 2: [Japan/Asia](#sega-mega-drive-2--sj-6000-japanasia-%EF%B8%8F), [USA](#sega-genesis-2), [Europe](#sega-mega-drive-2-europe)
   - Sega Saturn model 2: [black](#sega-saturn-model-2-black-%EF%B8%8F), [white](#sega-saturn-model-2-white-%EF%B8%8F), [gray](#sega-saturn-model-2-gray-%EF%B8%8F)
   - Sega Saturn 3D: [black](#sega-saturn-3d-black), [white](#sega-saturn-3d-white)
   - Sega Dreamcast: [white](#sega-dreamcast-white-%EF%B8%8F), [black](#sega-dreamcast-black-%EF%B8%8F), [super black](#sega-dreamcast-super-black-%EF%B8%8F)
@@ -137,14 +137,14 @@ From time to time, I'll be tweaking existing skins and adding new ones. You can 
 
 ## Sega
 
-### Sega Mega Drive 2 (Japan/Asia)
+### Sega Mega Drive 2 — SJ-6000 (Japan/Asia) ✔️
 
-<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/preview.svg" width="40%"></p>
+<p><img src="https://raw.githubusercontent.com/frolovlife/gamepadviewer-skins/refs/heads/main/sega/megadrive2/sj6000-preview.svg" width="40%"></p>
 
-- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
-- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
-- [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
-- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/megadrive2.css)
+- [For OBS Studio etc.](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/md-sj-6000.css)
+- [For OBS Studio etc. (with mapping: L-stick to D-pad)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/md-sj-6000.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"}]})
+- [For OBS Studio etc. (with mapping: L-stick to D-pad, LT to Mode)](https://gamepadviewer.com/?p=1&css=https://frolovlife.github.io/gamepadviewer-skins/sega/md-sj-6000.css&map={"mapping":[{"targetType":"buttons","target":"14","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"15","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"0"},{"targetType":"buttons","target":"12","disabled":false,"choiceOperand":"-","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"13","disabled":false,"choiceOperand":"%2B","choiceType":"axes","choice":"1"},{"targetType":"buttons","target":"8","disabled":false,"choiceType":"buttons","choice":"6"}]}) (for 8BitDo M30)
+- [Raw CSS file](https://frolovlife.github.io/gamepadviewer-skins/sega/md-sj-6000.css)
 
 ### Sega Genesis 2
 
