@@ -117,8 +117,8 @@
   </linearGradient>
   <linearGradient id="id13" gradientUnits="userSpaceOnUse" x1="121.351" y1="151.554" x2="121.351" y2="137.292">
    <stop offset="0" style="stop-opacity:1; stop-color:#666666"/>
-   <stop offset="0.35" style="stop-opacity:1; stop-color:#3F3F3F"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#181818"/>
+   <stop offset="0.35" style="stop-opacity:1; stop-color:#383838"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101010"/>
   </linearGradient>
   <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="413.599" y1="144.333" x2="413.599" y2="182.506">
    <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
