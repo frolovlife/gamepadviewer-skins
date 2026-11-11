@@ -1,34 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" width="530px" height="280px" viewBox="0 0 530 280" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="530px" height="280px" viewBox="0 0 530 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
-    .fil3 {fill:black;fill-opacity:0.1}
-    .fil4 {fill:black;fill-opacity:0.6}
-    .fil1 {fill:url(#id0)}
-    .fil2 {fill:url(#id1)}
-    .fil0 {fill:url(#id2);fill-opacity:0.6}
+    .str0 {stroke:black;stroke-width:2.268;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+    .fil5 {fill:none}
+    .fil4 {fill:black;fill-opacity:0.1}
+    .fil6 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil1 {fill:url(#id3)}
+    .fil0 {fill:url(#id4);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="415.855" y1="145.125" x2="415.855" y2="187.37">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="419.637" y1="179.076" x2="419.637" y2="177.186">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1A1A1A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#666666"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="413.599" y1="144.333" x2="413.599" y2="182.506">
    <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="415.855" y1="166.247" x2="415.855" y2="143.132">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="413.599" y1="142.443" x2="413.599" y2="184.396">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="413.599" y1="163.42" x2="413.599" y2="140.176">
    <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#484848"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="415.856" y1="166.248" x2="415.856" y2="141.14">
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="413.599" y1="163.42" x2="413.599" y2="138.286">
   </linearGradient>
   <filter id="Button-Blur" x="-20%" y="-20%" width="140%" height="140%">
    <feGaussianBlur stdDeviation="0.7" />
   </filter>
  </defs>
  <g id="button-b">
-  <path class="fil0" filter="url(#Button-Blur)" d="M415.855 141.14c13.867,0 25.108,11.241 25.108,25.108 0,13.866 -11.241,25.107 -25.108,25.107 -13.866,0 -25.107,-11.241 -25.107,-25.107 0,-13.867 11.241,-25.108 25.107,-25.108z"/>
-  <circle class="fil1" filter="url(#Button-Blur)" cx="415.855" cy="166.247" r="23.115"/>
-  <circle class="fil2" filter="url(#Button-Blur)" cx="415.855" cy="166.247" r="21.122"/>
-  <path class="fil3" filter="url(#Button-Blur)" d="M415.855 145.125c11.666,0 21.123,9.457 21.123,21.122l0 0.001c-5.191,-5.795 -12.73,-9.443 -21.123,-9.443 -8.392,0 -15.931,3.649 -21.122,9.444l0 -0.002c0,-11.665 9.457,-21.122 21.122,-21.122z"/>
-  <path class="fil4" d="M422.079 166.248c-0.298,-0.783 -1.382,-0.801 -3.249,-0.054l-7.538 3.017c-0.224,0.09 -0.334,0.347 -0.244,0.572l0.999 2.498c0.091,0.225 0.347,0.335 0.572,0.245l7.401 -2.962c1.735,-0.695 2.552,-1.469 2.456,-2.326l-0.397 -0.99zm-1.622 -4.167l-0.454 -1.02c-0.386,-0.832 -1.524,-0.87 -3.413,-0.114l-7.358 2.946c-0.225,0.09 -0.335,0.346 -0.245,0.571l1.055 2.635c0.09,0.225 0.347,0.335 0.572,0.245l7.433 -2.975c1.382,-0.553 2.189,-1.134 2.415,-1.744 0.071,-0.192 0.071,-0.373 -0.005,-0.544zm4.148 3.998c0.566,1.412 0.174,2.68 -1.177,3.805 -0.412,0.343 -0.924,0.676 -1.533,1 -0.335,0.18 -0.634,0.322 -0.896,0.427l-9.502 3.803c-0.522,0.209 -0.89,0.049 -1.102,-0.481l-4.282 -10.698c-0.209,-0.523 -0.053,-0.889 0.471,-1.098l9.223 -3.693c1.04,-0.416 1.859,-0.671 2.45,-0.768 0.84,-0.138 1.616,-0.066 2.326,0.211 0.805,0.307 1.358,0.833 1.653,1.572l0.38 0.948c0.297,0.742 0.281,1.461 -0.048,2.165 -0.047,0.099 -0.054,0.197 -0.019,0.285 0.024,0.059 0.068,0.113 0.136,0.169l0.09 0.063c0.72,0.273 1.227,0.783 1.524,1.525l0.306 0.765z"/>
+  <path class="fil0" filter="url(#Button-Blur)" d="M413.599 138.286c13.881,0 25.134,11.253 25.134,25.134 0,13.881 -11.253,25.134 -25.134,25.134 -13.881,0 -25.134,-11.253 -25.134,-25.134 0,-13.881 11.253,-25.134 25.134,-25.134z"/>
+  <path class="fil1" filter="url(#Button-Blur)" d="M413.599 140.176c12.837,0 23.244,10.407 23.244,23.244 0,12.837 -10.407,23.244 -23.244,23.244 -12.837,0 -23.244,-10.407 -23.244,-23.244 0,-12.837 10.407,-23.244 23.244,-23.244z"/>
+  <path class="fil2" filter="url(#Button-Blur)" d="M413.599 142.443c11.585,0 20.977,9.392 20.977,20.977 0,11.584 -9.392,20.976 -20.977,20.976 -11.585,0 -20.976,-9.392 -20.976,-20.976 0,-11.585 9.391,-20.977 20.976,-20.977z"/>
+  <circle class="fil3" cx="413.599" cy="163.42" r="19.087"/>
+  <path class="fil4" filter="url(#Button-Blur)" d="M413.599 142.443c11.585,0 20.977,9.392 20.977,20.977l0 0.001c-5.156,-5.756 -12.643,-9.378 -20.977,-9.378 -8.334,0 -15.821,3.623 -20.976,9.379l0 -0.002c0,-11.585 9.391,-20.977 20.976,-20.977z"/>
+  <path class="fil5 str0" d="M418.633 161.405l-11.693 4.679m13.389 -0.442c1.166,-0.466 1.737,-1.801 1.271,-2.966 -0.466,-1.166 -1.801,-1.737 -2.967,-1.271 1.166,-0.466 1.738,-1.801 1.271,-2.966 -0.466,-1.166 -1.801,-1.737 -2.966,-1.271l-12.187 4.877 3.391 8.474 12.187 -4.877z"/>
+  <circle class="fil6" cx="419.637" cy="178.509" r="1.89"/>
  </g>
 </svg>

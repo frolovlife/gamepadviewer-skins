@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" width="530px" height="280px" viewBox="0 0 530 280" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="530px" height="280px" viewBox="0 0 530 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
+    .str0 {stroke:black;stroke-width:2.268;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.3}
+    .fil4 {fill:none}
     .fil3 {fill:black;fill-opacity:0.05}
-    .fil4 {fill:black;fill-opacity:0.4}
     .fil1 {fill:url(#id0)}
     .fil2 {fill:url(#id1)}
     .fil0 {fill:url(#id2);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="443.872" y1="112.373" x2="443.872" y2="79.058">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="441.017" y1="110.608" x2="441.017" y2="76.97">
    <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:gray"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#B3B3B3"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="443.872" y1="110.342" x2="443.872" y2="81.089">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="441.017" y1="108.718" x2="441.017" y2="78.86">
    <stop offset="0" style="stop-opacity:1; stop-color:#4D4D4D"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:gray"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#999999"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="443.872" y1="114.405" x2="443.872" y2="77.026">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="441.017" y1="112.497" x2="441.017" y2="75.08">
    <stop offset="0" style="stop-opacity:1; stop-color:#333333"/>
    <stop offset="0.5" style="stop-opacity:1; stop-color:gray"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#CCCCCC"/>
@@ -29,10 +30,10 @@
   </filter>
  </defs>
  <g id="button-z">
-  <path class="fil0" filter="url(#Button-Blur)" d="M443.872 77.026c10.322,0 18.69,8.368 18.69,18.69 0,10.321 -8.368,18.689 -18.69,18.689 -10.322,0 -18.689,-8.368 -18.689,-18.689 0,-10.322 8.367,-18.69 18.689,-18.69z"/>
-  <path class="fil1" filter="url(#Button-Blur)" d="M443.872 79.058c9.2,0 16.658,7.458 16.658,16.658 0,9.199 -7.458,16.657 -16.658,16.657 -9.199,0 -16.658,-7.458 -16.658,-16.657 0,-9.2 7.459,-16.658 16.658,-16.658z"/>
-  <path class="fil2" filter="url(#Button-Blur)" d="M443.872 81.089c8.078,0 14.627,6.549 14.627,14.627 0,8.078 -6.549,14.626 -14.627,14.626 -8.078,0 -14.626,-6.548 -14.626,-14.626 0,-8.078 6.548,-14.627 14.626,-14.627z"/>
-  <path class="fil3" filter="url(#Button-Blur)" d="M443.872 112.373c9.199,0 16.657,-7.457 16.657,-16.656l0 -0.001c-4.093,4.57 -10.039,7.446 -16.657,7.446 -6.618,0 -12.563,-2.877 -16.656,-7.447l0 0.002c0,9.199 7.457,16.656 16.656,16.656z"/>
-  <path class="fil4" d="M438.423 101.364c-0.079,-0.351 0.001,-0.676 0.222,-0.955l6.868 -8.658c0.013,-0.016 -0.005,-0.044 -0.028,-0.039l-7.732 1.617c-0.612,0.128 -1.025,-0.156 -1.152,-0.763l-0.046 -0.219c-0.127,-0.607 0.138,-1.033 0.75,-1.161l9.854 -2.061c0.406,-0.085 0.838,-0.103 1.242,0.008 0.503,0.138 0.804,0.417 0.921,0.933 0.079,0.351 -0.001,0.678 -0.223,0.956l-6.867 8.657c-0.013,0.016 0.006,0.044 0.028,0.039l7.732 -1.617c0.612,-0.128 1.024,0.156 1.152,0.763l0.046 0.219c0.127,0.607 -0.138,1.033 -0.75,1.161l-9.854 2.061c-0.406,0.085 -0.834,0.102 -1.239,-0.007 -0.505,-0.137 -0.808,-0.417 -0.924,-0.934z"/>
+  <path class="fil0" filter="url(#Button-Blur)" d="M441.017 75.08c10.332,0 18.708,8.377 18.708,18.709 0,10.332 -8.376,18.708 -18.708,18.708 -10.333,0 -18.709,-8.376 -18.709,-18.708 0,-10.332 8.376,-18.709 18.709,-18.709z"/>
+  <path class="fil1" filter="url(#Button-Blur)" d="M441.017 76.97c9.288,0 16.819,7.53 16.819,16.819 0,9.288 -7.531,16.819 -16.819,16.819 -9.289,0 -16.819,-7.531 -16.819,-16.819 0,-9.289 7.53,-16.819 16.819,-16.819z"/>
+  <path class="fil2" filter="url(#Button-Blur)" d="M441.017 78.86c8.245,0 14.929,6.684 14.929,14.929 0,8.245 -6.684,14.929 -14.929,14.929 -8.245,0 -14.93,-6.684 -14.93,-14.929 0,-8.245 6.685,-14.929 14.93,-14.929z"/>
+  <path class="fil3" filter="url(#Button-Blur)" d="M441.017 110.608c9.287,0 16.817,-7.53 16.817,-16.818l0 -0.001c-4.133,4.615 -10.136,7.519 -16.817,7.519 -6.682,0 -12.685,-2.905 -16.818,-7.52l0 0.002c0,9.288 7.53,16.818 16.818,16.818z"/>
+  <polyline class="fil4 str0" points="449.492,96.678 434.41,99.833 447.624,87.744 432.541,90.899 "/>
  </g>
 </svg>

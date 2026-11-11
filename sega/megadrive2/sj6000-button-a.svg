@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xml:space="preserve" width="530px" height="280px" viewBox="0 0 530 280" version="1.1" style="shape-rendering:geometricPrecision; fill-rule:evenodd; clip-rule:evenodd" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="530px" height="280px" viewBox="0 0 530 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
-    .fil3 {fill:black;fill-opacity:0.1}
-    .fil4 {fill:black;fill-opacity:0.6}
-    .fil2 {fill:url(#id0)}
+    .str0 {stroke:black;stroke-width:2.268;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+    .fil5 {fill:none}
+    .fil4 {fill:black;fill-opacity:0.1}
+    .fil3 {fill:url(#id0)}
     .fil1 {fill:url(#id1)}
-    .fil0 {fill:url(#id2);fill-opacity:0.6}
+    .fil2 {fill:url(#id2)}
+    .fil0 {fill:url(#id3);fill-opacity:0.6}
   </style>
-  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="362.277" y1="175.035" x2="362.277" y2="217.28">
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="361.277" y1="173.522" x2="361.277" y2="211.696">
    <stop offset="0" style="stop-opacity:1; stop-color:#262626"/>
    <stop offset="0.6" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#404040"/>
   </linearGradient>
-  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="362.277" y1="196.158" x2="362.277" y2="173.043">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="361.277" y1="192.609" x2="361.277" y2="169.365">
    <stop offset="0" style="stop-opacity:1; stop-color:#303030"/>
    <stop offset="1" style="stop-opacity:1; stop-color:#484848"/>
   </linearGradient>
-  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="362.277" y1="196.158" x2="362.277" y2="171.05">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="361.277" y1="171.632" x2="361.277" y2="213.585">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="361.277" y1="192.609" x2="361.277" y2="167.475">
   </linearGradient>
   <filter id="Button-Blur" x="-20%" y="-20%" width="140%" height="140%">
    <feGaussianBlur stdDeviation="0.7" />
   </filter>
  </defs>
  <g id="button-a">
-  <path class="fil0" filter="url(#Button-Blur)" d="M362.277 171.05c13.867,0 25.108,11.242 25.108,25.108 0,13.867 -11.241,25.108 -25.108,25.108 -13.866,0 -25.108,-11.241 -25.108,-25.108 0,-13.866 11.242,-25.108 25.108,-25.108z"/>
-  <circle class="fil1" filter="url(#Button-Blur)" cx="362.277" cy="196.158" r="23.115"/>
-  <circle class="fil2" filter="url(#Button-Blur)" cx="362.277" cy="196.158" r="21.122"/>
-  <path class="fil3" filter="url(#Button-Blur)" d="M362.277 175.035c11.666,0 21.123,9.458 21.123,21.123l0 0c-5.191,-5.794 -12.731,-9.442 -21.123,-9.442 -8.392,0 -15.932,3.648 -21.122,9.444l0 -0.002c0,-11.665 9.457,-21.123 21.122,-21.123z"/>
-  <path class="fil4" d="M365.032 194.897l-4.603 -2.053c-0.137,-0.061 -0.283,-0.051 -0.411,0.028 -0.127,0.079 -0.201,0.205 -0.207,0.355l-0.217 5.043c-0.007,0.168 0.073,0.315 0.217,0.399 0.145,0.084 0.312,0.082 0.454,-0.006l4.82 -2.99c0.142,-0.088 0.218,-0.237 0.207,-0.404 -0.011,-0.167 -0.107,-0.303 -0.26,-0.372zm7.937 0.877c0.072,0.076 0.139,0.163 0.196,0.256 0.19,0.305 0.242,0.616 0.155,0.931 -0.086,0.315 -0.283,0.566 -0.591,0.757 -0.32,0.198 -0.726,0.185 -1.223,-0.041l-3.073 -1.341c-0.246,-0.108 -0.507,-0.089 -0.734,0.052l-7.939 4.925c-0.229,0.142 -0.361,0.368 -0.374,0.637l-0.154 3.358c0.012,0.145 0.005,0.262 -0.018,0.338 -0.052,0.203 -0.169,0.362 -0.352,0.475 -0.392,0.243 -0.766,0.281 -1.129,0.117 -0.157,-0.073 -0.271,-0.164 -0.34,-0.275 -0.046,-0.074 -0.073,-0.144 -0.079,-0.207l0.33 -13.927c0.018,-0.6 0.308,-1.061 0.879,-1.383 0.673,-0.384 1.192,-0.429 1.556,-0.128l12.89 5.456z"/>
+  <path class="fil0" filter="url(#Button-Blur)" d="M361.277 167.475c13.881,0 25.134,11.253 25.134,25.134 0,13.881 -11.253,25.134 -25.134,25.134 -13.881,0 -25.134,-11.253 -25.134,-25.134 0,-13.881 11.253,-25.134 25.134,-25.134z"/>
+  <circle class="fil1" filter="url(#Button-Blur)" cx="361.277" cy="192.609" r="23.244"/>
+  <circle class="fil2" filter="url(#Button-Blur)" cx="361.277" cy="192.609" r="20.976"/>
+  <circle class="fil3" cx="361.277" cy="192.609" r="19.087"/>
+  <path class="fil4" filter="url(#Button-Blur)" d="M361.277 171.632c11.584,0 20.976,9.392 20.976,20.977l0 0c-5.155,-5.754 -12.642,-9.377 -20.976,-9.377 -8.334,0 -15.822,3.624 -20.977,9.379l0 -0.002c0,-11.585 9.392,-20.977 20.977,-20.977z"/>
+  <path class="fil5 str0" d="M357.136 200.548l1.128 -10.858c0.042,-0.406 0.25,-0.738 0.607,-0.959 0.358,-0.222 0.747,-0.261 1.13,-0.118l10.229 3.812m-12.335 4.876l9.088 -5.638"/>
  </g>
 </svg>
