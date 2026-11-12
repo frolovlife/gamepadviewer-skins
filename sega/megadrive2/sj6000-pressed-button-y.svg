@@ -8,6 +8,8 @@
     .fil2 {fill:black;fill-opacity:0.05}
     .fil1 {fill:url(#id0)}
     .fil0 {fill:url(#id1);fill-opacity:0.5}
+    .fil5 {fill:url(#id2)}
+    .fil4 {fill:url(#id3)}
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="390.938" y1="124.933" x2="390.938" y2="91.295">
    <stop offset="0" style="stop-opacity:1; stop-color:#C00000"/>
@@ -15,6 +17,13 @@
    <stop offset="1" style="stop-opacity:1; stop-color:red"/>
   </linearGradient>
   <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="390.938" y1="126.823" x2="390.938" y2="89.406">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="402.449" y1="117.102" x2="402.449" y2="115.212">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B00000"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:red"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id1" x1="388.413" y1="122.719" x2="388.413" y2="120.829">
   </linearGradient>
   <filter id="Button-Blur" x="-20%" y="-20%" width="140%" height="140%">
    <feGaussianBlur stdDeviation="0.7" />
@@ -25,5 +34,7 @@
   <path class="fil1" filter="url(#Button-Blur)" d="M390.938 91.295c9.288,0 16.819,7.531 16.819,16.819 0,9.289 -7.531,16.819 -16.819,16.819 -9.289,0 -16.819,-7.53 -16.819,-16.819 0,-9.288 7.53,-16.819 16.819,-16.819z"/>
   <path class="fil2" filter="url(#Button-Blur)" d="M390.937 124.933c9.289,0 16.819,-7.529 16.819,-16.818l0 0c-4.134,4.614 -10.137,7.518 -16.819,7.518 -6.681,0 -12.684,-2.905 -16.817,-7.519l0 0.001c0,9.289 7.53,16.818 16.817,16.818z"/>
   <path class="fil3 str0" d="M382.09 106.74l8.848 1.374 5.457 -7.099m-5.457 7.099l1.695 4.237"/>
+  <path class="fil4" d="M388.413 120.262c1.044,0 1.89,0.846 1.89,1.89 0,1.043 -0.846,1.89 -1.89,1.89 -1.043,0 -1.89,-0.847 -1.89,-1.89 0,-1.044 0.847,-1.89 1.89,-1.89z"/>
+  <path class="fil5" d="M402.449 114.645c1.044,0 1.89,0.847 1.89,1.89 0,1.044 -0.846,1.89 -1.89,1.89 -1.043,0 -1.89,-0.846 -1.89,-1.89 0,-1.043 0.847,-1.89 1.89,-1.89z"/>
  </g>
 </svg>
